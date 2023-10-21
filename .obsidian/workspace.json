@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "0311166e41d18aec",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b0877f515a3f811",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23f11708fd8d23c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sets/Set Relations/Asymmetry of Relations.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e85fe5690c85499a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb872314196b910f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22771c03b08ae99e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "03b2f9b64114928e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "links",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f2372fc824ef6a3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "968b6748b9edf670",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb93c83668c1ecb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb67392fea7845f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sets/Set Relations/Asymmetry of Relations.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "772a121bf52145b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sets/Set Relations/Asymmetry of Relations.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "85471f625f090079",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "adc41754b3fe791a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sets/Set Relations/Asymmetry of Relations.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "23f11708fd8d23c0",
+  "lastOpenFiles": [
+    "Sets/Set Relations/Order Relations/Strict Order.md",
+    "Sets/Set Relations/Asymmetry of Relations.md",
+    "bliblablub.md",
+    "Sets/Set Relations/Order Relations/Order Relations.md",
+    "Sets/Set Relations/Reflexivity of Relations.md",
+    "Sets/Set Relations/Transitivity of Relations.md",
+    "Sets/Set Relations/Antisymmetry of Relations.md",
+    "Sets/Set Relations/Equivalence Relations.md",
+    "Sets/Set Relations/Relations.md",
+    "Sets/Set Relations/Properties of Relations.md",
+    "Sets/Set Relations/Symmetry of Relations.md",
+    "Sets/Set Relations/Order Relations/Partial Order.md",
+    "Sets/Cartesian Product.md",
+    "Sets/Subset.md",
+    "Sets/Superset.md",
+    "Sets/Sets.md",
+    "Sets/Set Mappings/Mappings over Sets.md",
+    "Sets/Set Mappings/Bijectivity of a Mapping.md",
+    "Sets/Set Mappings/Codomain of a Mapping.md",
+    "Sets/Set Mappings/Domain of a Mapping.md",
+    "Sets/Set Mappings/Image of x in a Mapping.md",
+    "Sets/Set Mappings/Injectivity of a Mapping.md",
+    "Sets/Set Mappings/Properties of Mappings.md",
+    "Sets/Set Mappings/Preimage of y in a Mapping.md",
+    "Sets/Set Relations/Order Relations/Total Order.md",
+    "Sets/Set Relations/Order Relations/Non-Strict Order.md",
+    "Untitled",
+    "Sets/Set Relations/Properties of Relations",
+    "Sets/Set Relations/Order Relations",
+    "Sets/Set Relations",
+    "Sets/Set Mappings",
+    "Sets",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}

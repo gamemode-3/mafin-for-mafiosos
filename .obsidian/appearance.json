@@ -1,0 +1,8 @@
+{
+  "accentColor": "",
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "clean-embeds",
+    "hide-properties"
+  ]
+}
