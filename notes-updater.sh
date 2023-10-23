@@ -80,7 +80,7 @@ AUTOSTART_CODE="
             Encoding=UTF-8
             Name=mafin for mafiosos
             Comment=mafin for mafiosos
-            Exec=gnome-terminal --wait -- bash -c \\\"$HOME/.mafin_for_mafiosos/$FILENAME\\\"
+            Exec=\"$HOME/.mafin_for_mafiosos/$FILENAME\" --autoclose
             Terminal=false
             Type=Application\" > \"$HOME/.config/autostart/mafin_for_mafiosos.desktop\"
             echo 'done!'
