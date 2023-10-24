@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "d91ff202970e4dff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Negation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f9f9d2cd420b317",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Propositional Calculus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1a52c5bdca0fcf92",
             "type": "leaf",
             "state": {
@@ -38,21 +62,9 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "803f48813e9fa571",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bool/Boolean Algebra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Negation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Negation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Negation.md"
+              }
             }
           }
         ]
@@ -174,35 +190,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39f1854e2ca262fa",
+  "active": "d91ff202970e4dff",
   "lastOpenFiles": [
-    "Sets/Countability and Equipotence/Equipotence.md",
+    "Pasted image 20231024094345.png",
+    "Negation.md",
+    "Propositional Calculus.md",
     "README.md",
+    "Bool/Huntington's Axioms.md",
+    "Bool/Boolean Algebra.md",
+    "Pasted image 20231024093853.png",
+    "Logical Operators.md",
+    "Sets/Set Relations/Properties of Relations.md",
+    "Sets/Set Relations/Reflexivity of Relations.md",
+    "Sets/Set Relations/Relations.md",
+    "Sets/Set Relations/Symmetry of Relations.md",
+    "Sets/Set Relations/Transitivity of Relations.md",
+    "Sets/Countability and Equipotence/Equipotence.md",
     "Sets/Set Mappings/Bijectivity of a Mapping.md",
     "Sets/Countability and Equipotence/Countability.md",
     "Sets/Set Mappings/Surjectivity of a Mapping.md",
     "Sets/Set Mappings/Injectivity of a Mapping.md",
-    "Sets/Set Relations/Relations.md",
     "Sets/Cartesian Product.md",
     "Sets/Countability and Equipotence/Finiteness.md",
-    "Bool/Huntington's Axioms.md",
-    "Bool/Boolean Algebra.md",
     "Sets/Countability and Equipotence",
     "Sets/Set Relations/Asymmetry of Relations.md",
     "Sets/Set Relations/Order Relations/Strict Order.md",
     "bliblablub.md",
     "Sets/Set Relations/Order Relations/Order Relations.md",
-    "Sets/Set Relations/Reflexivity of Relations.md",
-    "Sets/Set Relations/Transitivity of Relations.md",
     "Sets/Set Relations/Antisymmetry of Relations.md",
     "Sets/Set Relations/Equivalence Relations.md",
-    "Sets/Set Relations/Properties of Relations.md",
-    "Sets/Set Relations/Symmetry of Relations.md",
     "Sets/Set Relations/Order Relations/Partial Order.md",
-    "Sets/Subset.md",
-    "Sets/Superset.md",
-    "Sets/Sets.md",
-    "Sets/Set Mappings/Mappings over Sets.md",
     "Sets/Set Relations/Properties of Relations",
     "Sets/Set Relations/Order Relations",
     "Sets/Set Relations",
