@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets/Set Relations/Asymmetry of Relations.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "968b6748b9edf670",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sets/Set Relations/Asymmetry of Relations.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sets/Set Relations/Asymmetry of Relations.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sets/Set Relations/Asymmetry of Relations.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,8 +147,8 @@
   },
   "active": "23f11708fd8d23c0",
   "lastOpenFiles": [
-    "Sets/Set Relations/Order Relations/Strict Order.md",
     "Sets/Set Relations/Asymmetry of Relations.md",
+    "Sets/Set Relations/Order Relations/Strict Order.md",
     "bliblablub.md",
     "Sets/Set Relations/Order Relations/Order Relations.md",
     "Sets/Set Relations/Reflexivity of Relations.md",
