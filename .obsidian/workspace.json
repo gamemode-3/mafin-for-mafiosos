@@ -8,18 +8,51 @@
         "type": "tabs",
         "children": [
           {
-            "id": "23f11708fd8d23c0",
+            "id": "09d5461fa6938876",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets/Set Relations/Asymmetry of Relations.md",
-                "mode": "preview",
+                "file": "Bool/Huntington's Axioms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a52c5bdca0fcf92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bool/Huntington's Axioms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39f1854e2ca262fa",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "803f48813e9fa571",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bool/Boolean Algebra.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "968b6748b9edf670",
@@ -86,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sets/Set Relations/Asymmetry of Relations.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sets/Set Relations/Asymmetry of Relations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sets/Set Relations/Asymmetry of Relations.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,35 +174,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23f11708fd8d23c0",
+  "active": "39f1854e2ca262fa",
   "lastOpenFiles": [
-    "Sets/Set Relations/Order Relations/Strict Order.md",
+    "Sets/Countability and Equipotence/Equipotence.md",
+    "README.md",
+    "Sets/Set Mappings/Bijectivity of a Mapping.md",
+    "Sets/Countability and Equipotence/Countability.md",
+    "Sets/Set Mappings/Surjectivity of a Mapping.md",
+    "Sets/Set Mappings/Injectivity of a Mapping.md",
+    "Sets/Set Relations/Relations.md",
+    "Sets/Cartesian Product.md",
+    "Sets/Countability and Equipotence/Finiteness.md",
+    "Bool/Huntington's Axioms.md",
+    "Bool/Boolean Algebra.md",
+    "Sets/Countability and Equipotence",
     "Sets/Set Relations/Asymmetry of Relations.md",
+    "Sets/Set Relations/Order Relations/Strict Order.md",
     "bliblablub.md",
     "Sets/Set Relations/Order Relations/Order Relations.md",
     "Sets/Set Relations/Reflexivity of Relations.md",
     "Sets/Set Relations/Transitivity of Relations.md",
     "Sets/Set Relations/Antisymmetry of Relations.md",
     "Sets/Set Relations/Equivalence Relations.md",
-    "Sets/Set Relations/Relations.md",
     "Sets/Set Relations/Properties of Relations.md",
     "Sets/Set Relations/Symmetry of Relations.md",
     "Sets/Set Relations/Order Relations/Partial Order.md",
-    "Sets/Cartesian Product.md",
     "Sets/Subset.md",
     "Sets/Superset.md",
     "Sets/Sets.md",
     "Sets/Set Mappings/Mappings over Sets.md",
-    "Sets/Set Mappings/Bijectivity of a Mapping.md",
-    "Sets/Set Mappings/Codomain of a Mapping.md",
-    "Sets/Set Mappings/Domain of a Mapping.md",
-    "Sets/Set Mappings/Image of x in a Mapping.md",
-    "Sets/Set Mappings/Injectivity of a Mapping.md",
-    "Sets/Set Mappings/Properties of Mappings.md",
-    "Sets/Set Mappings/Preimage of y in a Mapping.md",
-    "Sets/Set Relations/Order Relations/Total Order.md",
-    "Sets/Set Relations/Order Relations/Non-Strict Order.md",
-    "Untitled",
     "Sets/Set Relations/Properties of Relations",
     "Sets/Set Relations/Order Relations",
     "Sets/Set Relations",
