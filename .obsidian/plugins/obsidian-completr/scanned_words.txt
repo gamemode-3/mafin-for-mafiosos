@@ -198,6 +198,7 @@ sp
 shr
 spi
 sB
+surjection
 Notation
 Neutral
 NJA
@@ -440,6 +441,7 @@ wY
 wxc
 wi
 while
+whether
 is
 if
 implies
@@ -505,6 +507,7 @@ iJh
 iwi
 iXm
 iuyc
+injection
 the
 that
 to
@@ -653,6 +656,7 @@ oR
 os
 obJ
 operator
+object
 Links
 Let
 Limited
@@ -1274,6 +1278,7 @@ dFT
 dfb
 dDLt
 denial
+different
 Relations
 Reflexivity
 Related
@@ -1687,6 +1692,8 @@ cY
 cc
 calculus
 commonly
+clear
+comes
 for
 from
 fulfilled

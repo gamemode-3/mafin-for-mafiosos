@@ -4,67 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "0b0877f515a3f811",
+        "id": "2cfe89c8d876f7ce",
         "type": "tabs",
         "children": [
           {
-            "id": "09d5461fa6938876",
+            "id": "7d2cf993bd97e2a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bool/Huntington's Axioms.md",
+                "file": "Sets/Superset.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d91ff202970e4dff",
+            "id": "78c4b8a870d7a9b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Sets/Sets.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3f9f9d2cd420b317",
+            "id": "a5e047d50972f9cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Propositional Calculus.md",
+                "file": "Sets/Set Mappings/Surjectivity of a Mapping.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "1a52c5bdca0fcf92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bool/Huntington's Axioms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39f1854e2ca262fa",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "968b6748b9edf670",
@@ -130,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Sets/Set Mappings/Surjectivity of a Mapping.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Sets/Set Mappings/Surjectivity of a Mapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Sets/Set Mappings/Surjectivity of a Mapping.md"
               }
             }
           }
@@ -178,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,34 +174,36 @@
   "active": "22771c03b08ae99e",
   "lastOpenFiles": [
     "Propositional Calculus.md",
+    "Sets/Countability and Equipotence/Finiteness.md",
     "Negation.md",
-    "Logical Operators.md",
-    "Proposition.md",
     "Pasted image 20231024094345.png",
-    "README.md",
-    "Bool/Huntington's Axioms.md",
-    "Bool/Boolean Algebra.md",
-    "Pasted image 20231024093853.png",
+    "Sets/Countability and Equipotence/Equipotence.md",
+    "Sets/Countability and Equipotence/Countability.md",
+    "Logical Operators.md",
+    "notes-updater.sh",
+    "Sets/Set Mappings/Rules for Compositions and Mapping Properties.md",
+    "Sets/Set Mappings/Properties of Mappings.md",
+    "Sets/Set Mappings/Preimage of y in a Mapping.md",
+    "Sets/Set Mappings/Mappings over Sets.md",
+    "Sets/Set Mappings/Injectivity of a Mapping.md",
+    "Sets/Set Mappings/Image of x in a Mapping.md",
+    "Sets/Set Mappings/Domain of a Mapping.md",
+    "notes-updater.bat",
+    "Sets/Set Mappings/Codomain of a Mapping.md",
+    "Sets/Set Mappings/Composition of Mappings.md",
+    "Sets/Set Mappings/Bijectivity of a Mapping.md",
+    "Sets/Set Relations/Order Relations/Total Order.md",
+    "Sets/Set Relations/Order Relations/Strict Order.md",
+    "Sets/Set Relations/Order Relations/Partial Order.md",
+    "Sets/Set Relations/Order Relations/Order Relations.md",
+    "Sets/Set Relations/Order Relations/Non-Strict Order.md",
+    "Sets/Set Relations/Antisymmetry of Relations.md",
+    "Sets/Set Relations/Asymmetry of Relations.md",
     "Sets/Set Relations/Properties of Relations.md",
     "Sets/Set Relations/Reflexivity of Relations.md",
-    "Sets/Set Relations/Relations.md",
-    "Sets/Set Relations/Symmetry of Relations.md",
-    "Sets/Set Relations/Transitivity of Relations.md",
-    "Sets/Countability and Equipotence/Equipotence.md",
-    "Sets/Set Mappings/Bijectivity of a Mapping.md",
-    "Sets/Countability and Equipotence/Countability.md",
-    "Sets/Set Mappings/Surjectivity of a Mapping.md",
-    "Sets/Set Mappings/Injectivity of a Mapping.md",
-    "Sets/Cartesian Product.md",
-    "Sets/Countability and Equipotence/Finiteness.md",
-    "Sets/Countability and Equipotence",
-    "Sets/Set Relations/Asymmetry of Relations.md",
-    "Sets/Set Relations/Order Relations/Strict Order.md",
-    "bliblablub.md",
-    "Sets/Set Relations/Order Relations/Order Relations.md",
-    "Sets/Set Relations/Antisymmetry of Relations.md",
     "Sets/Set Relations/Equivalence Relations.md",
-    "Sets/Set Relations/Order Relations/Partial Order.md",
+    "Pasted image 20231024093853.png",
+    "Sets/Countability and Equipotence",
     "Sets/Set Relations/Properties of Relations",
     "Sets/Set Relations/Order Relations",
     "Sets/Set Relations",
