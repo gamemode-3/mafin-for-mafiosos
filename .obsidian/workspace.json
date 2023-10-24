@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Negation.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Negation.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Negation.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Negation.md"
+                "file": "README.md"
               }
             }
           }
@@ -190,16 +190,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d91ff202970e4dff",
+  "active": "22771c03b08ae99e",
   "lastOpenFiles": [
-    "Pasted image 20231024094345.png",
-    "Negation.md",
     "Propositional Calculus.md",
+    "Negation.md",
+    "Logical Operators.md",
+    "Proposition.md",
+    "Pasted image 20231024094345.png",
     "README.md",
     "Bool/Huntington's Axioms.md",
     "Bool/Boolean Algebra.md",
     "Pasted image 20231024093853.png",
-    "Logical Operators.md",
     "Sets/Set Relations/Properties of Relations.md",
     "Sets/Set Relations/Reflexivity of Relations.md",
     "Sets/Set Relations/Relations.md",

@@ -127,6 +127,7 @@ mM
 mp
 mf
 ms
+mark
 set
 subset
 subsets
@@ -438,6 +439,7 @@ wd
 wY
 wxc
 wi
+while
 is
 if
 implies
@@ -650,6 +652,7 @@ oL
 oR
 os
 obJ
+operator
 Links
 Let
 Limited
@@ -777,6 +780,7 @@ pe
 prV
 pQH
 propositional
+programming
 Injectivity
 Implications
 In
@@ -1346,6 +1350,7 @@ RSR
 RUze
 ReZ
 ROA
+Rust
 be
 both
 bijective
@@ -1681,6 +1686,7 @@ cR
 cY
 cc
 calculus
+commonly
 for
 from
 fulfilled
@@ -1820,6 +1826,9 @@ eED
 elf
 eR
 eZ
+etc
+exception
+exclamation
 Antisymmetry
 Any
 An
@@ -2234,6 +2243,8 @@ nnC
 nC
 nX
 nBs
+notable
+negates
 least
 lectures
 ll
@@ -2296,6 +2307,9 @@ lF
 lDQd
 lk
 lQ
+languages
+like
+logical
 value
 view
 vault
@@ -2359,6 +2373,7 @@ vv
 vk
 vi
 vL
+variable
 Prerequisites
 PNG
 Pi
@@ -2425,6 +2440,8 @@ PPX
 PvF
 PXT
 PR
+Programming
+Python
 You
 YmE
 YSrsr
@@ -2532,6 +2549,7 @@ gS
 gj
 glK
 guY
+given
 you
 your
 yyy
@@ -2740,6 +2758,7 @@ ua
 uP
 uh
 uy
+used
 zip
 zlW
 zE
@@ -3200,6 +3219,8 @@ JfD
 JTt
 Jc
 JFj
+Java
+JavaScript
 kQJV
 ka
 kG
@@ -3259,6 +3280,7 @@ kv
 kbL
 kgk
 kz
+keyword
 VkE
 Vy
 VK
