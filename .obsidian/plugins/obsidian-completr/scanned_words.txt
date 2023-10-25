@@ -11,17 +11,13 @@ all
 asymmetric
 asymmetry
 after
-<<<<<<< HEAD
 automatically
 allow
-=======
 algebra
 axioms
 amount
 about
 also
-automatically
-allow
 ao
 aH
 aN
@@ -66,26 +62,23 @@ ay
 aj
 aaaX
 applied
+<<<<<<< HEAD
+=======
 >>>>>>> fbb3611fb5764629182401118b55136767a439a1
 mapping
 mappings
 most
 mathematical
-<<<<<<< HEAD
 mafmn
-=======
 must
 minimal
 means
 mafin
->>>>>>> fbb3611fb5764629182401118b55136767a439a1
 mafiosos
 my
 maths
 manually
 manager
-<<<<<<< HEAD
-=======
 mR
 mW
 mU
@@ -139,7 +132,7 @@ mp
 mf
 ms
 mark
->>>>>>> fbb3611fb5764629182401118b55136767a439a1
+menu
 set
 subset
 subsets
@@ -157,14 +150,10 @@ supersets
 some
 sometimes
 square
-<<<<<<< HEAD
 science
 select
-=======
 same
 so
-science
-select
 sBIT
 screenshot
 sQ
@@ -215,7 +204,8 @@ shr
 spi
 sB
 surjection
->>>>>>> fbb3611fb5764629182401118b55136767a439a1
+standard
+special
 Notation
 Neutral
 NJA
@@ -388,6 +378,7 @@ MV
 MNI
 MTT
 MAn
+MORE
 where
 with
 ways
@@ -396,13 +387,9 @@ which
 we
 weak
 words
-<<<<<<< HEAD
 week
 work
-=======
 write
-week
-work
 windows
 was
 works
@@ -463,7 +450,7 @@ wxc
 wi
 while
 whether
->>>>>>> fbb3611fb5764629182401118b55136767a439a1
+when
 is
 if
 implies
@@ -474,8 +461,6 @@ injectivity
 image
 integers
 in
-<<<<<<< HEAD
-=======
 idk
 iCA
 iHt
@@ -532,7 +517,6 @@ iwi
 iXm
 iuyc
 injection
->>>>>>> fbb3611fb5764629182401118b55136767a439a1
 the
 that
 to
@@ -547,8 +531,6 @@ two
 times
 this
 terminal
-<<<<<<< HEAD
-=======
 try
 translated
 test
@@ -605,7 +587,7 @@ tV
 tL
 tAb
 thought
->>>>>>> fbb3611fb5764629182401118b55136767a439a1
+tags
 of
 opposite
 over
@@ -616,13 +598,9 @@ or
 objects
 other
 ordered
-<<<<<<< HEAD
 once
 open
-=======
 operations
-once
-open
 oQE
 oV
 ot
@@ -689,7 +667,6 @@ os
 obJ
 operator
 object
->>>>>>> fbb3611fb5764629182401118b55136767a439a1
 Links
 Let
 Limited
@@ -759,6 +736,7 @@ LrJJ
 LLH
 LX
 Lo
+LJgd
 property
 properties
 preimage
@@ -769,8 +747,6 @@ program
 permissions
 put
 probably
-<<<<<<< HEAD
-=======
 pU
 pl
 pn
@@ -820,7 +796,8 @@ prV
 pQH
 propositional
 programming
->>>>>>> fbb3611fb5764629182401118b55136767a439a1
+plugin
+parsed
 Injectivity
 Implications
 In
@@ -930,6 +907,7 @@ IxG
 Inv
 IYi
 IH
+Inverse
 Surjectivity
 Symmetry
 Strictness
@@ -990,6 +968,7 @@ SR
 SP
 Ss
 SoI
+Switch
 Bijectivity
 BA
 Ba
@@ -1067,11 +1046,8 @@ Bzz
 Bm
 Definition
 Domain
-<<<<<<< HEAD
 Download
-=======
 Distributive
-Download
 Di
 DQ
 DC
@@ -1157,7 +1133,7 @@ Dvf
 DEG
 Dm
 Dv
->>>>>>> fbb3611fb5764629182401118b55136767a439a1
+Drawing
 The
 This
 Totality
@@ -1234,6 +1210,7 @@ TC
 TWEQq
 Truth
 Table
+Text
 denotes
 denoted
 domain
@@ -1245,8 +1222,6 @@ double
 doesn
 directory
 do
-<<<<<<< HEAD
-=======
 didn
 dO
 df
@@ -1321,7 +1296,7 @@ dfb
 dDLt
 denial
 different
->>>>>>> fbb3611fb5764629182401118b55136767a439a1
+document
 Relations
 Reflexivity
 Related
@@ -1470,8 +1445,6 @@ real
 remember
 right
 run
-<<<<<<< HEAD
-=======
 respectively
 rl
 rcV
@@ -1528,7 +1501,6 @@ rO
 rv
 rHe
 rq
->>>>>>> fbb3611fb5764629182401118b55136767a439a1
 Every
 Examples
 Elements
@@ -1613,6 +1585,7 @@ Efv
 Es
 EH
 EHN
+EXCALIDRAW
 We
 Wyd
 WG
@@ -1677,13 +1650,9 @@ containing
 conditions
 comparable
 cartesian
-<<<<<<< HEAD
 computer
 click
-=======
 countable
-computer
-click
 chatgpt
 co
 cck
@@ -1744,19 +1713,14 @@ calculus
 commonly
 clear
 comes
->>>>>>> fbb3611fb5764629182401118b55136767a439a1
 for
 from
 fulfilled
 fulfill
-<<<<<<< HEAD
 file
 folder
-=======
 follows
 finite
-file
-folder
 fZ
 fV
 fE
@@ -1806,7 +1770,6 @@ fZJZpm
 fH
 fggk
 fN
->>>>>>> fbb3611fb5764629182401118b55136767a439a1
 each
 element
 every
@@ -1818,14 +1781,10 @@ equivalence
 equal
 equality
 either
-<<<<<<< HEAD
 extract
 executing
-=======
 exist
 equipotent
-extract
-executing
 equipotence
 eI
 efs
@@ -1896,7 +1855,7 @@ eZ
 etc
 exception
 exclamation
->>>>>>> fbb3611fb5764629182401118b55136767a439a1
+excalidraw
 Antisymmetry
 Any
 An
@@ -1979,18 +1938,10 @@ AH
 Ac
 Aoq
 has
-<<<<<<< HEAD
 haha
 how
-Codomain
-Collection
-Cases
-Code
-=======
 huntington
 have
-haha
-how
 hK
 hQ
 hl
@@ -2042,9 +1993,9 @@ hS
 Codomain
 Collection
 Cases
+Code
 Commutative
 Countablility
-Code
 CEST
 CqE
 Cii
@@ -2115,7 +2066,6 @@ CZj
 CUh
 Cht
 Ciä
->>>>>>> fbb3611fb5764629182401118b55136767a439a1
 For
 Furthermore
 Fi
@@ -2259,6 +2209,8 @@ Oxr
 Oq
 Ozz
 Oh
+OPTIONS
+Ohno
 never
 non
 not
@@ -2266,8 +2218,6 @@ natural
 numbers
 notes
 now
-<<<<<<< HEAD
-=======
 nA
 nM
 nS
@@ -2324,16 +2274,10 @@ nX
 nBs
 notable
 negates
->>>>>>> fbb3611fb5764629182401118b55136767a439a1
 least
 lectures
 ll
 linux
-<<<<<<< HEAD
-value
-view
-vault
-=======
 lol
 lK
 lc
@@ -2395,6 +2339,7 @@ lQ
 languages
 like
 logical
+look
 value
 view
 vault
@@ -2459,7 +2404,6 @@ vk
 vi
 vL
 variable
->>>>>>> fbb3611fb5764629182401118b55136767a439a1
 Prerequisites
 PNG
 Pi
@@ -2587,15 +2531,6 @@ YMVE
 YGA
 get
 graphical
-<<<<<<< HEAD
-you
-your
-up
-until
-update
-zip
-just
-=======
 gnome
 gW
 gZ
@@ -2704,101 +2639,10 @@ yco
 yAi
 ytx
 yp
-Huntington
-HG
-HWQ
-Hi
-HL
-Hh
-HQ
-Hz
-HT
-HLLT
-Hb
-HD
-HHW
-HR
-HF
-HFF
-HJJd
-HX
-HUU
-HII
-HMM
-HKK
-HPV
-HZ
-Hzh
-HMN
-HNIA
-HDd
-HJJ
-HOOg
-HQAQ
-HN
-Hhh
-HET
-HJ
-Ht
-HKKc
-Hqz
-Hw
-Ho
-HDD
-HQp
-Ha
-HLL
-HIME
-HHH
-HJLb
-HRS
-HOO
-HfF
-HbB
-HHL
-Hl
-Hq
-HI
-Hr
-HZZZ
-HU
-HH
-HtUD
-HPPg
-Hf
-Hj
-HQa
-HLJD
-HOK
-HC
-HKO
-Hv
-HhNVV
-HJb
-HJH
-HK
-HLH
-Hzz
-HP
-HIJ
-HCR
-HNN
-Hk
-Hp
-Hy
-HO
-HKIsX
-Hm
-HM
-Hrr
-HnV
-HB
-HIM
-HA
-uncountable
 up
 until
 update
+uncountable
 ut
 uJ
 uV
@@ -2978,6 +2822,98 @@ jDEE
 jUGdD
 js
 joP
+Huntington
+HG
+HWQ
+Hi
+HL
+Hh
+HQ
+Hz
+HT
+HLLT
+Hb
+HD
+HHW
+HR
+HF
+HFF
+HJJd
+HX
+HUU
+HII
+HMM
+HKK
+HPV
+HZ
+Hzh
+HMN
+HNIA
+HDd
+HJJ
+HOOg
+HQAQ
+HN
+Hhh
+HET
+HJ
+Ht
+HKKc
+Hqz
+Hw
+Ho
+HDD
+HQp
+Ha
+HLL
+HIME
+HHH
+HJLb
+HRS
+HOO
+HfF
+HbB
+HHL
+Hl
+Hq
+HI
+Hr
+HZZZ
+HU
+HH
+HtUD
+HPPg
+Hf
+Hj
+HQa
+HLJD
+HOK
+HC
+HKO
+Hv
+HhNVV
+HJb
+HJH
+HK
+HLH
+Hzz
+HP
+HIJ
+HCR
+HNN
+Hk
+Hp
+Hy
+HO
+HKIsX
+Hm
+HM
+Hrr
+HnV
+HB
+HIM
+HA
+Hellooooo
 UfD
 UN
 Uy
@@ -3175,6 +3111,7 @@ Zx
 Zvn
 ZMV
 Zb
+ZWzSMObS
 Qd
 Qh
 QDQ
@@ -3430,6 +3367,7 @@ Vrw
 Vm
 Vo
 VJ
+VIEW
 Xe
 XQxA
 Xq
@@ -3675,4 +3613,3 @@ xzy
 xGF
 xr
 äI
->>>>>>> fbb3611fb5764629182401118b55136767a439a1

@@ -14,7 +14,6 @@ $$\begin{align}
 a \otimes b = b \otimes a \\
 a \oplus b = b \oplus a
 \end{align}$$
-
 ## H2: Distributive Law
 $$\begin{align}
 a \otimes (b \oplus c) = (a \otimes b) \oplus (a \otimes c) \\
@@ -27,4 +26,9 @@ $$\begin{align}
 	a \oplus n = a	
 \end{align}$$
 We call $e$ and $n$ the [[Identity Element|identity elements]] for $\otimes$ and $\oplus$ respectively
-## H4
+## H4: Inverse Elements
+There exists an element $\lnot a \in V$ for each $a \in V$ such that:
+$$\begin{align}
+	a \otimes \lnot a = n \\
+	a \oplus \lnot a = e
+\end{align}$$

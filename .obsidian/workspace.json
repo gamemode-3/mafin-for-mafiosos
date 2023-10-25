@@ -1,69 +1,37 @@
 {
   "main": {
-    "id": "0311166e41d18aec",
+    "id": "62b26b2c2075aecc",
     "type": "split",
     "children": [
       {
-        "id": "2cfe89c8d876f7ce",
+        "id": "16228927b7208b76",
         "type": "tabs",
         "children": [
           {
-            "id": "7d2cf993bd97e2a1",
+            "id": "0d134b63f530f415",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-<<<<<<< HEAD
-                "file": "README.md",
-                "mode": "preview",
-=======
-                "file": "Sets/Superset.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78c4b8a870d7a9b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets/Sets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5e047d50972f9cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets/Set Mappings/Surjectivity of a Mapping.md",
-                "mode": "source",
->>>>>>> fbb3611fb5764629182401118b55136767a439a1
-                "source": false
+                "file": "Excalidraw/Logic-Test.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e85fe5690c85499a",
+    "id": "b2035cbbf2c9a5da",
     "type": "split",
     "children": [
       {
-        "id": "cb872314196b910f",
+        "id": "76af0ab54138831a",
         "type": "tabs",
         "children": [
           {
-            "id": "22771c03b08ae99e",
+            "id": "f4844e2f2ea3dc4a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -73,12 +41,12 @@
             }
           },
           {
-            "id": "03b2f9b64114928e",
+            "id": "fb5ec2c84b6d405f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "links",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +56,7 @@
             }
           },
           {
-            "id": "9f2372fc824ef6a3",
+            "id": "27e1c9e9288e247f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -99,32 +67,25 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
-    "width": 300
-=======
-    "width": 200
->>>>>>> fbb3611fb5764629182401118b55136767a439a1
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "968b6748b9edf670",
+    "id": "ca97c74bbc64936e",
     "type": "split",
     "children": [
       {
-        "id": "eb93c83668c1ecb9",
+        "id": "66d7eeea51d8c742",
         "type": "tabs",
         "children": [
           {
-            "id": "fb67392fea7845f8",
+            "id": "739ef4536aba0a81",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "README.md",
-=======
-                "file": "Sets/Set Mappings/Surjectivity of a Mapping.md",
->>>>>>> fbb3611fb5764629182401118b55136767a439a1
-                "collapseAll": true,
+                "file": "Excalidraw/Logic-Test.excalidraw.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -135,23 +96,19 @@
             }
           },
           {
-            "id": "772a121bf52145b3",
+            "id": "97d2069ca6518d29",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "README.md",
-=======
-                "file": "Sets/Set Mappings/Surjectivity of a Mapping.md",
->>>>>>> fbb3611fb5764629182401118b55136767a439a1
+                "file": "Excalidraw/Logic-Test.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "85471f625f090079",
+            "id": "c0b18456194c0466",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -162,16 +119,12 @@
             }
           },
           {
-            "id": "adc41754b3fe791a",
+            "id": "37508e393f4ac447",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "README.md"
-=======
-                "file": "Sets/Set Mappings/Surjectivity of a Mapping.md"
->>>>>>> fbb3611fb5764629182401118b55136767a439a1
+                "file": "Excalidraw/Logic-Test.excalidraw.md"
               }
             }
           }
@@ -189,73 +142,19 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "22771c03b08ae99e",
+  "active": "0d134b63f530f415",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Sets/Set Relations/Asymmetry of Relations.md",
-    "Sets/Set Relations/Order Relations/Strict Order.md",
-    "bliblablub.md",
-    "Sets/Set Relations/Order Relations/Order Relations.md",
-    "Sets/Set Relations/Reflexivity of Relations.md",
-    "Sets/Set Relations/Transitivity of Relations.md",
-    "Sets/Set Relations/Antisymmetry of Relations.md",
-    "Sets/Set Relations/Equivalence Relations.md",
-    "Sets/Set Relations/Relations.md",
-    "Sets/Set Relations/Properties of Relations.md",
-    "Sets/Set Relations/Symmetry of Relations.md",
-    "Sets/Set Relations/Order Relations/Partial Order.md",
-    "Sets/Cartesian Product.md",
-    "Sets/Subset.md",
-    "Sets/Superset.md",
-    "Sets/Sets.md",
-    "Sets/Set Mappings/Mappings over Sets.md",
-    "Sets/Set Mappings/Bijectivity of a Mapping.md",
-    "Sets/Set Mappings/Codomain of a Mapping.md",
-    "Sets/Set Mappings/Domain of a Mapping.md",
-    "Sets/Set Mappings/Image of x in a Mapping.md",
-    "Sets/Set Mappings/Injectivity of a Mapping.md",
-=======
+    "Bool/Huntington's Axioms.md",
     "Propositional Calculus.md",
-    "Sets/Countability and Equipotence/Finiteness.md",
-    "Negation.md",
-    "Pasted image 20231024094345.png",
-    "Sets/Countability and Equipotence/Equipotence.md",
-    "Sets/Countability and Equipotence/Countability.md",
-    "Logical Operators.md",
-    "notes-updater.sh",
-    "Sets/Set Mappings/Rules for Compositions and Mapping Properties.md",
->>>>>>> fbb3611fb5764629182401118b55136767a439a1
-    "Sets/Set Mappings/Properties of Mappings.md",
-    "Sets/Set Mappings/Preimage of y in a Mapping.md",
-    "Sets/Set Mappings/Mappings over Sets.md",
-    "Sets/Set Mappings/Injectivity of a Mapping.md",
-    "Sets/Set Mappings/Image of x in a Mapping.md",
-    "Sets/Set Mappings/Domain of a Mapping.md",
-    "notes-updater.bat",
-    "Sets/Set Mappings/Codomain of a Mapping.md",
-    "Sets/Set Mappings/Composition of Mappings.md",
-    "Sets/Set Mappings/Bijectivity of a Mapping.md",
-    "Sets/Set Relations/Order Relations/Total Order.md",
-    "Sets/Set Relations/Order Relations/Strict Order.md",
-    "Sets/Set Relations/Order Relations/Partial Order.md",
-    "Sets/Set Relations/Order Relations/Order Relations.md",
-    "Sets/Set Relations/Order Relations/Non-Strict Order.md",
-    "Sets/Set Relations/Antisymmetry of Relations.md",
-    "Sets/Set Relations/Asymmetry of Relations.md",
-    "Sets/Set Relations/Properties of Relations.md",
-    "Sets/Set Relations/Reflexivity of Relations.md",
-    "Sets/Set Relations/Equivalence Relations.md",
-    "Pasted image 20231024093853.png",
-    "Sets/Countability and Equipotence",
-    "Sets/Set Relations/Properties of Relations",
-    "Sets/Set Relations/Order Relations",
-    "Sets/Set Relations",
-    "Sets/Set Mappings",
-    "Sets",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Bool/Boolean Algebra.md",
+    "Untitled.md",
+    "Excalidraw/Logic-Test.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-25 13.00.51.excalidraw.md",
+    "Bool/Standard Boolean Algebra.md",
+    "Excalidraw"
   ]
 }
