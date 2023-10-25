@@ -4,7 +4,7 @@ aliases:
   - weak
 ---
 # Definition
-A ___non-strict___ [[Order Relations|order]] on $X$ is a [[Transitivity of Relations|transitive]], [[Reflexivity of Relations|reflexive]] and [[Antisymmetry of Relations|antisymmetric]] [[Relations|relation]] on a [[Sets|set]] $X$.
+A ___non-strict___ [[Order Relation|order]] on $X$ is a [[Transitivity of a Relation|transitive]], [[Reflexivity of a Relation|reflexive]] and [[Antisymmetry of a Relation|antisymmetric]] [[Relation|relation]] on a [[Set|set]] $X$.
 # Aliases
 - ___weak order___
 # Implications

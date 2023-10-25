@@ -18,5 +18,5 @@ A set of all elements from $X$ for which the conditions $c_0, c_1, ..., c_n$ whe
 
 # Related
 [[Subset]] and [[Superset|supersets]]
-[[Relations]]
-[[Mappings over Sets]]
+[[Relation]]
+[[Set Mapping]]

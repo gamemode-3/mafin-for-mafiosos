@@ -4,7 +4,7 @@ aliases:
   - relations
 ---
 # Definition
-Let $X$ and $Y$ be [[Sets|sets]]. Every $R \subset X \times Y$ is a ___relation___ over $X$ and $Y$.
+Let $X$ and $Y$ be [[Set|sets]]. Every $R \subset X \times Y$ is a ___relation___ over $X$ and $Y$.
 
 A relation $R \subset X^2$ is called a relation on $X$.
 
@@ -14,9 +14,9 @@ Let $R$ be a relation over $X$ and $Y$. Let $x \in X$ and $y \in Y$.
 We say that $x \in X$ is related to $y \in Y$ if $(x, y) \in R$.
 This can be denoted as $x R y$.
 # Types of Relations
-[[Order Relations]]
-[[Equivalence Relations]]
+[[Order Relation]]
+[[Equivalence Relation]]
 # Related
-[[Properties of Relations]]
+[[Properties of a Relation]]
 # Prerequisites
 [[Cartesian Product]]

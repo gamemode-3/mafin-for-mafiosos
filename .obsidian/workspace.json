@@ -4,20 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "16228927b7208b76",
+        "id": "f73a7f596bcb4182",
         "type": "tabs",
         "children": [
           {
-            "id": "0d134b63f530f415",
+            "id": "52edc7f9a41a4748",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Logic-Test.excalidraw.md"
+                "file": "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96c577fff4fab86e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6210e8fbf524f70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logic/Standard Boolean Algebra/Negation.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ca97c74bbc64936e",
@@ -84,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Logic-Test.excalidraw.md",
+                "file": "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Logic-Test.excalidraw.md",
+                "file": "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,16 +150,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Logic-Test.excalidraw.md"
+                "file": "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md"
               }
             }
+          },
+          {
+            "id": "1a103db079f91384",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 312.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,18 +177,39 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0d134b63f530f415",
+  "active": "96c577fff4fab86e",
   "lastOpenFiles": [
-    "Bool/Huntington's Axioms.md",
-    "Propositional Calculus.md",
-    "Bool/Boolean Algebra.md",
-    "Untitled.md",
-    "Excalidraw/Logic-Test.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-25 13.00.51.excalidraw.md",
-    "Bool/Standard Boolean Algebra.md",
+    "Logic/Standard Boolean Algebra/Logical Operators.md",
+    "Logic/Propositional Calculus.md",
+    "Logic/Standard Boolean Algebra/Conjunction.md",
+    "Logic/Boolean Algebra.md",
+    "Logic/Standard Boolean Algebra",
+    "Logic/Standard Boolean Algebra/Negation.md",
+    "Sets/Set Relations/Properties of a Relation.md",
+    "Sets/Set Mappings/Properties of a Mapping.md",
+    "Sets/Countability and Equipotence/Countability.md",
+    "Sets/Set Relations/Transitivity of a Relation.md",
+    "Sets/Set Relations/Symmetry of a Relation.md",
+    "Sets/Set Relations/Reflexivity of a Relation.md",
+    "Sets/Set Relations/Asymmetry of a Relation.md",
+    "Sets/Set Relations/Antisymmetry of a Relation.md",
+    "Sets/Set Relations/Relation.md",
+    "Sets/Set Mappings/Set Mapping.md",
+    "Sets/Set Relations/Order Relations/Non-Strict Order.md",
+    "Sets/Set Relations/Order Relations/Order Relation.md",
+    "Sets/Set Relations/Equivalence Relation.md",
+    "Sets/Cartesian Product.md",
+    "Sets/Superset.md",
+    "Sets/Subset.md",
+    "Sets/Set.md",
+    "Logic/Boolean Function.md",
+    "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
+    "Excalidraw/Drawing 2023-10-25 14.07.09.excalidraw.md",
+    "Logic/Huntington's Axioms.md",
     "Excalidraw"
   ]
 }

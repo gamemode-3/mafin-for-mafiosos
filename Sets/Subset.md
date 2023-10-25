@@ -4,7 +4,7 @@ aliases:
   - subsets
 ---
 # Definition
-A [[Sets|set]] $X$ is a subset of a set $Y$ if $x \in X$ implies $x \in Y$
+A [[Set|set]] $X$ is a subset of a set $Y$ if $x \in X$ implies $x \in Y$
 # Notation
 - $X \subset Y$ denotes that $X$ is a subset of $Y$
 - $X \supset Y$ denotes that $Y$ is a subset of $X$

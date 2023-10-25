@@ -1,5 +1,5 @@
 # Definition
-The ___negation___ of $p$, denoted as  $\lnot p$ or $\bar{p}$ is defined to be the
+The ___negation___ of $p$, denoted as  $\lnot p$ or $\bar{p}$ is defined to be the 
 
 The ___double negation___, that is the negation applied to the negation, of a value always has the same value as the negation itself
 # Truth Table

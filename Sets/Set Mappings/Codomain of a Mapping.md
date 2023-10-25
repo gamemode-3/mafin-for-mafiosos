@@ -5,4 +5,4 @@ aliases:
   - target set
 ---
 # Definition
-For a [[Mappings over Sets|mapping]] $f: X \to Y$, $Y$ is the ___codomain___
+For a [[Set Mapping|mapping]] $f: X \to Y$, $Y$ is the ___codomain___

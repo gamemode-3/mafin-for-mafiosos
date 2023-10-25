@@ -206,6 +206,7 @@ sB
 surjection
 standard
 special
+seperated
 Notation
 Neutral
 NJA
@@ -304,6 +305,7 @@ NIM
 Nv
 Nde
 No
+Name
 Mapping
 ML
 Ma
@@ -379,6 +381,9 @@ MNI
 MTT
 MAn
 MORE
+Morgan
+Meaning
+Maths
 where
 with
 ways
@@ -667,6 +672,7 @@ os
 obJ
 operator
 object
+options
 Links
 Let
 Limited
@@ -737,6 +743,7 @@ LLH
 LX
 Lo
 LJgd
+Language
 property
 properties
 preimage
@@ -908,6 +915,7 @@ Inv
 IYi
 IH
 Inverse
+Idempotent
 Surjectivity
 Symmetry
 Strictness
@@ -1044,6 +1052,7 @@ Bbb
 BiF
 Bzz
 Bm
+Basic
 Definition
 Domain
 Download
@@ -1297,6 +1306,7 @@ dDLt
 denial
 different
 document
+derived
 Relations
 Reflexivity
 Related
@@ -1586,6 +1596,9 @@ Es
 EH
 EHN
 EXCALIDRAW
+Embedded
+Equivalences
+Equivalent
 We
 Wyd
 WG
@@ -1713,6 +1726,7 @@ calculus
 commonly
 clear
 comes
+code
 for
 from
 fulfilled
@@ -1770,6 +1784,8 @@ fZJZpm
 fH
 fggk
 fN
+files
+following
 each
 element
 every
@@ -1856,6 +1872,7 @@ etc
 exception
 exclamation
 excalidraw
+equivalences
 Antisymmetry
 Any
 An
@@ -1937,6 +1954,8 @@ AQQ
 AH
 Ac
 Aoq
+Associative
+Absorption
 has
 haha
 how
@@ -2135,6 +2154,7 @@ Fu
 Fjj
 FNv
 FtL
+Further
 Only
 Overview
 Otherwise
@@ -2274,6 +2294,7 @@ nX
 nBs
 notable
 negates
+nbsp
 least
 lectures
 ll

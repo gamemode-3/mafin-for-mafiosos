@@ -5,7 +5,7 @@ aliases:
   - surjection
 ---
 # Definition
-Any [[Mappings over Sets|mapping]] $f: X \to Y$ is ___surjective___ if for each $y \in Y$ there exists an $x \in X$ such that $f(x) = y$.
+Any [[Set Mapping|mapping]] $f: X \to Y$ is ___surjective___ if for each $y \in Y$ there exists an $x \in X$ such that $f(x) = y$.
 
 We call a surjective mapping a ___surjection___
 # Implications
