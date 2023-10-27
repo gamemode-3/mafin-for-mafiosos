@@ -4,7 +4,7 @@ aliases:
   - uncountable
 ---
 # Definition
-A [[Set|set]] is ___countable___ if it is either [[Finiteness|finite]] or [[Countable Infinity|countably infinite]].
+A [[Set|set]] is ___countable___ if it is either [[Finite Cardinality|finite]] or [[Countable Infinity|countably infinite]].
 
 If it is not it is ___uncountable___.
 

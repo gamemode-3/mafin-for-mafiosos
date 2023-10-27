@@ -3,5 +3,7 @@
   "quick-latex",
   "obsidian-excalidraw-plugin",
   "cmdr",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "nonexistent-references",
+  "hot-reload"
 ]

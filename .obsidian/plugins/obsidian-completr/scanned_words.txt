@@ -522,6 +522,7 @@ iwi
 iXm
 iuyc
 injection
+independently
 the
 that
 to
@@ -593,6 +594,7 @@ tL
 tAb
 thought
 tags
+tautology
 of
 opposite
 over
@@ -916,6 +918,7 @@ IYi
 IH
 Inverse
 Idempotent
+Important
 Surjectivity
 Symmetry
 Strictness
@@ -1307,6 +1310,7 @@ denial
 different
 document
 derived
+denote
 Relations
 Reflexivity
 Related
@@ -1786,6 +1790,8 @@ fggk
 fN
 files
 following
+function
+functions
 each
 element
 every
@@ -1873,6 +1879,7 @@ exception
 exclamation
 excalidraw
 equivalences
+equivalent
 Antisymmetry
 Any
 An
@@ -2231,6 +2238,7 @@ Ozz
 Oh
 OPTIONS
 Ohno
+Oddities
 never
 non
 not
@@ -2425,6 +2433,7 @@ vk
 vi
 vL
 variable
+values
 Prerequisites
 PNG
 Pi

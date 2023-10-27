@@ -1,0 +1,24 @@
+
+.reference-count {
+    margin-left: 1rem;
+    margin-right: auto;
+}
+
+.references-collapse-icon {
+    margin-top: +0.25rem;
+}
+
+.reference-item-element-center {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.reference-match-file-name {
+    font-size: small;
+}
+
+.reference-match-file-pos {
+    margin-left: 1.5rem;
+    padding-left: 0.5rem;
+    margin-right: 0.5rem;
+}
