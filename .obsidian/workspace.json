@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Logic/Standard Boolean Algebra/Negation.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Logic/Standard Boolean Algebra/Negation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Logic/Standard Boolean Algebra/Negation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Logic/Standard Boolean Algebra/Negation.md"
               }
             }
           },
@@ -177,10 +177,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f4844e2f2ea3dc4a",
+  "active": "c6210e8fbf524f70",
   "lastOpenFiles": [
-    "Logic/Standard Boolean Algebra/Negation.md",
     "Untitled.md",
+    "Logic/Standard Boolean Algebra/Negation.md",
     "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
     "Sets/Superset.md",
     "README.md",
