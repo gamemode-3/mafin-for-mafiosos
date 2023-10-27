@@ -1,0 +1,6 @@
+- if the [[Composition of Mappings|composition]] $g \circ f$ is [[Injectivity of a Mapping|injective]], then $f$ is injective
+- if $g \circ f$ is [[Surjectivity of a Mapping|surjective]], then $g$ is surjective
+- if $f$ and $g$ are injective, then $g \circ f$ is injective
+- if $f$ and $g$ are surjective, then $g \circ f$ is surjective
+- if $f$ and $g$ are [[Bijectivity of a Mapping|bijective]], then $g \circ f$ is bijective
+- if $f$ is injective, then $f' : X \to f(X), x \mapsto f(x)$ is bijective
