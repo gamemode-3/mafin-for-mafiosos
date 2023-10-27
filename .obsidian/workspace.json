@@ -38,9 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b10897a5b7a361e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Standard Boolean Algebra/Negation.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Standard Boolean Algebra/Negation.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Standard Boolean Algebra/Negation.md"
+                "file": "README.md"
               }
             }
           },
@@ -177,13 +189,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c6210e8fbf524f70",
+  "active": "b10897a5b7a361e0",
   "lastOpenFiles": [
     "Untitled.md",
+    "README.md",
     "Logic/Standard Boolean Algebra/Negation.md",
     "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
     "Sets/Superset.md",
-    "README.md",
     "Pasted image 20231024094345.png",
     "Sets/Set Relations/Reflexivity of a Relation.md",
     "Sets/Set Relations/Equivalence Relation.md",
