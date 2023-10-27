@@ -1,7 +1,7 @@
 # mafin for mafiosos
 my notes from all maths for computer science lectures up until now
 
-i'll update this at least once a week if i remember to haha\
+i'll update this at least once a week if i remember to haha
 
 ## how to view
 ### manually download
