@@ -50,9 +50,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "894d367a9a25b8a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,10 +201,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f4844e2f2ea3dc4a",
+  "active": "894d367a9a25b8a1",
   "lastOpenFiles": [
-    "README.md",
     "Untitled.md",
+    "README.md",
     "Logic/Standard Boolean Algebra/Negation.md",
     "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
     "Sets/Superset.md",
