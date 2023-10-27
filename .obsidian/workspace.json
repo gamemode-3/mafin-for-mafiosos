@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-25 14.07.09.excalidraw.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -177,6 +177,8 @@
   },
   "active": "f4844e2f2ea3dc4a",
   "lastOpenFiles": [
+    "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
+    "Untitled.md",
     "Sets/Superset.md",
     "README.md",
     "Pasted image 20231024094345.png",
@@ -187,7 +189,6 @@
     "Sets/Cartesian Product.md",
     "Sets/Subset.md",
     "Sets/Set.md",
-    "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
     "Logic/Standard Boolean Algebra/Logical Operators.md",
     "Logic/Propositional Calculus.md",
     "Logic/Standard Boolean Algebra/Conjunction.md",
@@ -204,7 +205,6 @@
     "Sets/Set Relations/Order Relations/Non-Strict Order.md",
     "Sets/Set Relations/Order Relations/Order Relation.md",
     "Logic/Boolean Function.md",
-    "Excalidraw/Drawing 2023-10-25 14.07.09.excalidraw.md",
     "Excalidraw"
   ]
 }
