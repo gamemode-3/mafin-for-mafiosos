@@ -1,89 +1,35 @@
 {
   "main": {
-    "id": "62b26b2c2075aecc",
+    "id": "ce98b3c6ee876825",
     "type": "split",
     "children": [
       {
-        "id": "667a71badc6e5ee2",
+        "id": "127abc7bbf0b9460",
         "type": "tabs",
         "children": [
           {
-            "id": "f9291b9ed5631886",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "Sets/Countability and Equipotence/Finite Cardinality.md",
-=======
-                "file": "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96c577fff4fab86e",
+            "id": "ed9307986dabb6d6",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "c6210e8fbf524f70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logic/Standard Boolean Algebra/Negation.md",
->>>>>>> 8f75a17518e9e23f01d3f53cd54d1e24a4247cae
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-<<<<<<< HEAD
-            "id": "27906bc0dcced558",
-=======
-            "id": "b10897a5b7a361e0",
->>>>>>> 8f75a17518e9e23f01d3f53cd54d1e24a4247cae
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "Sets/Countability and Equipotence/Countability.md",
-                "mode": "preview",
-=======
-                "file": "README.md",
-                "mode": "source",
->>>>>>> 8f75a17518e9e23f01d3f53cd54d1e24a4247cae
-                "source": false
-              }
-            }
           }
-<<<<<<< HEAD
         ]
-=======
-        ],
-        "currentTab": 3
->>>>>>> 8f75a17518e9e23f01d3f53cd54d1e24a4247cae
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b2035cbbf2c9a5da",
+    "id": "583b588957313f3a",
     "type": "split",
     "children": [
       {
-        "id": "76af0ab54138831a",
+        "id": "c5e204328dd737de",
         "type": "tabs",
         "children": [
           {
-            "id": "f4844e2f2ea3dc4a",
+            "id": "2f90f3199a5b4a60",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -93,12 +39,12 @@
             }
           },
           {
-            "id": "fb5ec2c84b6d405f",
+            "id": "f7a8ff4ac73a2b19",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "Pasted image 20231024094345.png",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +54,7 @@
             }
           },
           {
-            "id": "27e1c9e9288e247f",
+            "id": "0e7e2c6bc186209a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -122,26 +68,20 @@
     "width": 300
   },
   "right": {
-    "id": "ca97c74bbc64936e",
+    "id": "251bc0a934284806",
     "type": "split",
     "children": [
       {
-        "id": "66d7eeea51d8c742",
+        "id": "e3eea0c7f4dba5fc",
         "type": "tabs",
         "children": [
           {
-            "id": "739ef4536aba0a81",
+            "id": "2b96f9d2bfd5f2d3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Sets/Countability and Equipotence/Finite Cardinality.md",
-                "collapseAll": true,
-=======
-                "file": "README.md",
                 "collapseAll": false,
->>>>>>> 8f75a17518e9e23f01d3f53cd54d1e24a4247cae
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -152,23 +92,18 @@
             }
           },
           {
-            "id": "97d2069ca6518d29",
+            "id": "c787a9cf1378ed9a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Sets/Countability and Equipotence/Finite Cardinality.md",
-=======
-                "file": "README.md",
->>>>>>> 8f75a17518e9e23f01d3f53cd54d1e24a4247cae
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c0b18456194c0466",
+            "id": "f255d377ef8a1fc1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -179,24 +114,10 @@
             }
           },
           {
-            "id": "37508e393f4ac447",
+            "id": "278897839134d2d2",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-<<<<<<< HEAD
-                "file": "Sets/Countability and Equipotence/Finite Cardinality.md"
-=======
-                "file": "README.md"
->>>>>>> 8f75a17518e9e23f01d3f53cd54d1e24a4247cae
-              }
-            }
-          },
-          {
-            "id": "1a103db079f91384",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -204,78 +125,21 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-<<<<<<< HEAD
-  "active": "f9291b9ed5631886",
-  "lastOpenFiles": [
-    "Sets/Countability and Equipotence/Countability.md",
-    "Sets/Countability and Equipotence/Finite Cardinality.md",
-    "Sets/Countability and Equipotence/Equipotence.md",
-    "Sets/Countability and Equipotence/Infinite Cardinality.md",
-    "Cardinality.md",
-    "Logic/Logical Equivalence.md",
-    "Logic/Propositional Calculus.md",
-    "Logic/Boolean Function.md",
-    "Logic/Standard Boolean Algebra/Negation.md",
-    "Proposition.md",
-    "Union.md",
-    "Logic/Tautology.md",
-    "Logic/Huntington's Axioms.md",
-    "Logic/Boolean Algebra.md",
-    "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
-    "Countable Infinity.md",
-    "[[Cardinality]].md",
-    "Pasted image 20231024094345.png",
-    "2023-10-26.md",
-    "Logic/Standard Boolean Algebra/Logical Operators.md",
-    "Logic/Standard Boolean Algebra/Conjunction.md",
-=======
-  "active": "b10897a5b7a361e0",
-  "lastOpenFiles": [
-    "Untitled.md",
-    "README.md",
-    "Logic/Standard Boolean Algebra/Negation.md",
-    "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
-    "Sets/Superset.md",
-    "Pasted image 20231024094345.png",
-    "Sets/Set Relations/Reflexivity of a Relation.md",
-    "Sets/Set Relations/Equivalence Relation.md",
-    "Sets/Set Relations/Antisymmetry of a Relation.md",
-    "Sets/Cartesian Product.md",
-    "Sets/Subset.md",
-    "Sets/Set.md",
-    "Logic/Standard Boolean Algebra/Logical Operators.md",
-    "Logic/Propositional Calculus.md",
-    "Logic/Standard Boolean Algebra/Conjunction.md",
-    "Logic/Boolean Algebra.md",
->>>>>>> 8f75a17518e9e23f01d3f53cd54d1e24a4247cae
-    "Logic/Standard Boolean Algebra",
-    "Sets/Set Relations/Properties of a Relation.md",
-    "Sets/Set Mappings/Properties of a Mapping.md",
-    "Sets/Set Relations/Transitivity of a Relation.md",
-    "Sets/Set Relations/Symmetry of a Relation.md",
-    "Sets/Set Relations/Asymmetry of a Relation.md",
-<<<<<<< HEAD
-=======
-    "Sets/Set Relations/Relation.md",
-    "Sets/Set Mappings/Set Mapping.md",
-    "Sets/Set Relations/Order Relations/Non-Strict Order.md",
-    "Sets/Set Relations/Order Relations/Order Relation.md",
-    "Logic/Boolean Function.md",
->>>>>>> 8f75a17518e9e23f01d3f53cd54d1e24a4247cae
-    "Excalidraw"
-  ]
+  "active": "ed9307986dabb6d6",
+  "lastOpenFiles": []
 }
