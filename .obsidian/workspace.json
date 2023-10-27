@@ -23,12 +23,8 @@
             "id": "96c577fff4fab86e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md"
+                "file": "Excalidraw/Drawing 2023-10-25 14.07.09.excalidraw.md"
               }
             }
           },
@@ -181,35 +175,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "96c577fff4fab86e",
+  "active": "f4844e2f2ea3dc4a",
   "lastOpenFiles": [
+    "Sets/Superset.md",
+    "README.md",
+    "Pasted image 20231024094345.png",
+    "Logic/Standard Boolean Algebra/Negation.md",
+    "Sets/Set Relations/Reflexivity of a Relation.md",
+    "Sets/Set Relations/Equivalence Relation.md",
+    "Sets/Set Relations/Antisymmetry of a Relation.md",
+    "Sets/Cartesian Product.md",
+    "Sets/Subset.md",
+    "Sets/Set.md",
+    "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
     "Logic/Standard Boolean Algebra/Logical Operators.md",
     "Logic/Propositional Calculus.md",
     "Logic/Standard Boolean Algebra/Conjunction.md",
     "Logic/Boolean Algebra.md",
     "Logic/Standard Boolean Algebra",
-    "Logic/Standard Boolean Algebra/Negation.md",
     "Sets/Set Relations/Properties of a Relation.md",
     "Sets/Set Mappings/Properties of a Mapping.md",
     "Sets/Countability and Equipotence/Countability.md",
     "Sets/Set Relations/Transitivity of a Relation.md",
     "Sets/Set Relations/Symmetry of a Relation.md",
-    "Sets/Set Relations/Reflexivity of a Relation.md",
     "Sets/Set Relations/Asymmetry of a Relation.md",
-    "Sets/Set Relations/Antisymmetry of a Relation.md",
     "Sets/Set Relations/Relation.md",
     "Sets/Set Mappings/Set Mapping.md",
     "Sets/Set Relations/Order Relations/Non-Strict Order.md",
     "Sets/Set Relations/Order Relations/Order Relation.md",
-    "Sets/Set Relations/Equivalence Relation.md",
-    "Sets/Cartesian Product.md",
-    "Sets/Superset.md",
-    "Sets/Subset.md",
-    "Sets/Set.md",
     "Logic/Boolean Function.md",
-    "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
     "Excalidraw/Drawing 2023-10-25 14.07.09.excalidraw.md",
-    "Logic/Huntington's Axioms.md",
     "Excalidraw"
   ]
 }
