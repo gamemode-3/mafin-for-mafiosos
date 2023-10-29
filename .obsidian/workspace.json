@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "376a6323a10258d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logic/Boolean Function.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "956df6be16d2ae6d",
             "type": "leaf",
             "state": {
@@ -165,7 +153,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Boolean Function.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +169,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Boolean Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,9 +190,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Logic/Boolean Function.md"
-              }
+              "state": {}
             }
           },
           {
@@ -236,11 +220,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "376a6323a10258d3",
+  "active": "956df6be16d2ae6d",
   "lastOpenFiles": [
+    "Logic/Boolean Function.md",
     "Logic/Boolean Algebra.md",
     "Logic/Huntington's Axioms.md",
-    "Logic/Boolean Function.md",
     "Logic/Equivalence.md",
     "Sets/Set Operations.md",
     "README.md",
