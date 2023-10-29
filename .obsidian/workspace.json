@@ -99,8 +99,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Boolean Algebra.md",
+                "file": "Sets/Set Operations.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Boolean Algebra.md",
+                "file": "Sets/Set Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Boolean Algebra.md"
+                "file": "Sets/Set Operations.md"
               }
             }
           },
@@ -237,8 +236,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e9b5b18b4e15a1c2",
+  "active": "376a6323a10258d3",
   "lastOpenFiles": [
+    "Logic/Boolean Algebra.md",
     "README.md",
     "Logic/Character String.md",
     "Untitled.md",
@@ -246,7 +246,6 @@
     "Logic/Equivalence.md",
     "Logic/Untitled.md",
     "Logic/Boolean Function.md",
-    "Logic/Boolean Algebra.md",
     "Logic/Standard Boolean Algebra/Logical Expression.md",
     "Logic/Logical Operators.md",
     "Logic/Propositional Calculus/Tautology.md",
