@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Logical Expression.md",
+                "file": "Logic/Propositional Expression.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Logical Expression.md",
+                "file": "Logic/Propositional Expression.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Logical Expression.md",
+                "file": "Logic/Propositional Expression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Logical Expression.md"
+                "file": "Logic/Propositional Expression.md"
               }
             }
           },
@@ -225,12 +225,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7fa2609eed1b1bec",
+  "active": "2f90f3199a5b4a60",
   "lastOpenFiles": [
+    "Untitled",
+    "Logic/Logical Expression.md",
     "Logic/Propositional Calculus.md",
     "Logic/Proposition Variable Assignment.md",
     "Logic/Propositional Expression.md",
-    "Logic/Logical Expression.md",
     "Logic/Logical Operators.md",
     "Logic/Equivalence.md",
     "Logic/Tautology.md",
@@ -251,7 +252,6 @@
     "procca.md",
     "Logic/Boolean Function.md",
     "Logic/Standard Boolean Algebra/Conjunction (in Standard Boolean Algebra).md",
-    "Sets/Subset.md",
-    "Sets/Set.md"
+    "Sets/Subset.md"
   ]
 }
