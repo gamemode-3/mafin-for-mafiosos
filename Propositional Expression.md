@@ -7,4 +7,6 @@ Let $X$ be a [[Set|set]] of [[Proposition|proposition]] variables. A ___logical 
 	- $(P \land Q)$
 	- $(P \rightarrow Q)$
 	- $(P \leftrightarrow Q)$
-By this definition, $P \land Q$ and $P \lor \lnot Q \lor P \land Q$ are not expressions because they are missing the parentheses. Therefore, whenever I discuss [[Propositional Calculus|propositional calculus]] I will be using parentheses everywhere, only omitting the outermost pair.
+By this definition, $P \land Q$ and $P \lor \lnot Q \lor P \land Q$ are not expressions because they are missing the parentheses. 
+
+$
