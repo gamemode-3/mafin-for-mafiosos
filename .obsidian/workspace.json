@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Boolean Function.md",
+                "file": "Logic/Huntington's Axioms.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Boolean Function.md",
+                "file": "Logic/Huntington's Axioms.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Boolean Function.md",
+                "file": "Logic/Huntington's Axioms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Boolean Function.md"
+                "file": "Logic/Huntington's Axioms.md"
               }
             }
           },
@@ -238,9 +238,9 @@
   },
   "active": "376a6323a10258d3",
   "lastOpenFiles": [
+    "Logic/Boolean Function.md",
     "Logic/Equivalence.md",
     "Logic/Boolean Algebra.md",
-    "Logic/Boolean Function.md",
     "Sets/Set Operations.md",
     "README.md",
     "Logic/Character String.md",
