@@ -19,4 +19,4 @@ chmod +x refresh.sh
 ./notes-updater.sh
 ```
 ### automatically download (windows)
-you can try [notes-updater.bat](https://github.com/gamemode-3/mafin-for-mafiosos/releases/download/v1.0.0/notes-updater.bat) but it was translated by chatgpt and i didn't test so idk if it works 
+you can try [notes-updater.bat](https://github.com/gamemode-3/mafin-for-mafiosos/releases/download/v1.0.0/notes-updater.bat) but it was translated by chatgpt and i didn't test so idk if it works lol
