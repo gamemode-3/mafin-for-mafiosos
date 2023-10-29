@@ -1,6 +1,5 @@
 # Definition
-In our MafIn course, we have defined the following variation:
-$\mathcal{F}$ is the smallest set that:
+Let $X$ be a [[Set|set]] of variables. A ___logical expression___ in [[Standard Boolean Algebra|standard boolean algebra]] is a [[Character String|character string]] in $\mathcal{F}$ where $\mathcal{F}$ is the smallest set that
 - Contains all strings from $X$ 
 - For any $P, Q \in \mathcal{F}$, contains:
 	- $\lnot P$
