@@ -1,0 +1,270 @@
+{
+  "main": {
+    "id": "ce98b3c6ee876825",
+    "type": "split",
+    "children": [
+      {
+        "id": "c62dc3ea9b60d9d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "376a6323a10258d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logic/Boolean Function.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "956df6be16d2ae6d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "430e396341253a51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logic/Standard Boolean Algebra/Logical Expression.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fa2609eed1b1bec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logic/Propositional Calculus/Tautology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9b5b18b4e15a1c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logic/Boolean Algebra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43cd258b426d04ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logic/Equivalence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91490abfeeecbf60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logic/Standard Boolean Algebra/Negation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0c2bb6867d3c0a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sets/Set Relations/Transitivity of a Relation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "583b588957313f3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5e204328dd737de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f90f3199a5b4a60",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f7a8ff4ac73a2b19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0e7e2c6bc186209a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "251bc0a934284806",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3eea0c7f4dba5fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b96f9d2bfd5f2d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Logic/Boolean Function.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "c787a9cf1378ed9a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Logic/Boolean Function.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f255d377ef8a1fc1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "278897839134d2d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Logic/Boolean Function.md"
+              }
+            }
+          },
+          {
+            "id": "5122ca632657c391",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "cmdr:Nonexistent References": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "376a6323a10258d3",
+  "lastOpenFiles": [
+    "Logic/Boolean Algebra.md",
+    "Logic/Huntington's Axioms.md",
+    "Logic/Boolean Function.md",
+    "Logic/Equivalence.md",
+    "Sets/Set Operations.md",
+    "README.md",
+    "Logic/Character String.md",
+    "Untitled.md",
+    "Pasted image 20231024094345.png",
+    "Logic/Untitled.md",
+    "Logic/Standard Boolean Algebra/Logical Expression.md",
+    "Logic/Logical Operators.md",
+    "Logic/Propositional Calculus/Tautology.md",
+    "Logic/Propositional Calculus/Propositional Expression.md",
+    "Logic/Propositional Calculus/Proposition Variable Assignment.md",
+    "Logic/Propositional Calculus",
+    "Logic/Propositional Calculus/Propositional Calculus.md",
+    "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
+    "Hello World.md",
+    "Conjunction (in Standard Boolean Algebra).md",
+    "Sets/Set Relations/Transitivity of a Relation.md",
+    "Logic/Standard Boolean Algebra/Negation.md",
+    "Intersection.md",
+    "Identity Element.md",
+    "Logic/Propositional Calculus/Proposition.md",
+    "Sets/Set Relations/Properties of a Relation.md",
+    "Sets/Set Relations/Antisymmetry of a Relation.md",
+    "procca.md"
+  ]
+}
