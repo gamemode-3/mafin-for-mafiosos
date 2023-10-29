@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets/Set Operations.md",
+                "file": "Conjunction (in Standard Boolean Algebra).md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sets/Set Operations.md",
+                "file": "Conjunction (in Standard Boolean Algebra).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sets/Set Operations.md",
+                "file": "Conjunction (in Standard Boolean Algebra).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sets/Set Operations.md"
+                "file": "Conjunction (in Standard Boolean Algebra).md"
               }
             }
           },
@@ -214,12 +214,13 @@
   },
   "active": "2f90f3199a5b4a60",
   "lastOpenFiles": [
+    "Sets/Set Operations.md",
     "Logic/Character String.md",
     "Logic/Propositional Calculus.md",
     "Logic/Equivalence.md",
     "Sets/Set Relations/Transitivity of a Relation.md",
     "Logic/Standard Boolean Algebra/Negation.md",
-    "Logical Expression.md",
+    "Logic/Logical Expression.md",
     "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
     "Logic/Logical Operators.md",
     "Intersection.md",
@@ -229,7 +230,6 @@
     "Sets/Set Relations/Antisymmetry of a Relation.md",
     "procca.md",
     "Logic/Boolean Function.md",
-    "Sets/Set Operations.md",
     "Conjunction (in Standard Boolean Algebra).md",
     "Logic/Standard Boolean Algebra/Conjunction (in Standard Boolean Algebra).md",
     "Logic/Tautology.md",
