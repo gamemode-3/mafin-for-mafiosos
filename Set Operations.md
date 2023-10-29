@@ -8,4 +8,3 @@ aliases:
 | [[Union\|union]]        | $\set{x : x \in X \lor x \in Y}$ |
 | [[Intersection\|intersection]] | $\set{x : x \in X \lor x \in Y}$   |
 
-
