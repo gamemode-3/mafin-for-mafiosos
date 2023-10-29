@@ -2,5 +2,5 @@
 aliases:
   - variable assignment
 ---
-# In [[Proposita]]
+# In [[Propositional Calculus]]
 A ___variable assignment___ 
