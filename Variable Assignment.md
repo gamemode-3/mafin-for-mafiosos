@@ -2,5 +2,5 @@
 aliases:
   - variable assignment
 ---
-# In [[Prop]]
+# In [[Proposita]]
 A ___variable assignment___ 
