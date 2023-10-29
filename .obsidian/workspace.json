@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proposition Variable Assignment.md",
+                "file": "Logic/Logical Expression.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proposition Variable Assignment.md",
+                "file": "Logic/Logical Expression.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proposition Variable Assignment.md",
+                "file": "Logic/Logical Expression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proposition Variable Assignment.md"
+                "file": "Logic/Logical Expression.md"
               }
             }
           },
@@ -227,17 +227,17 @@
   },
   "active": "7fa2609eed1b1bec",
   "lastOpenFiles": [
+    "Logic/Propositional Calculus.md",
+    "Logic/Proposition Variable Assignment.md",
     "Logic/Propositional Expression.md",
     "Logic/Logical Expression.md",
     "Logic/Logical Operators.md",
-    "Proposition Variable Assignment.md",
     "Logic/Equivalence.md",
     "Logic/Tautology.md",
     "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
     "Logic/Huntington's Axioms.md",
     "Hello World.md",
     "README.md",
-    "Logic/Propositional Calculus.md",
     "Sets/Set Operations.md",
     "Conjunction (in Standard Boolean Algebra).md",
     "Logic/Character String.md",
