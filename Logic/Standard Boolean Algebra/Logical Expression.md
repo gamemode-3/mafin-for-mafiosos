@@ -13,4 +13,3 @@ Let $X$ be a [[Set|set]] of variables. A ___logical expression___ in [[Standard 
 	- $P \rightarrow Q$
 	- $P \leftrightarrow Q$
 	- $(P)$
-# In Propositional Calculus:

@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Logical Expression.md",
+                "file": "Logic/Standard Boolean Algebra/Logical Expression.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Logical Expression.md",
+                "file": "Logic/Character String.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Logical Expression.md",
+                "file": "Logic/Character String.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Logical Expression.md",
+                "file": "Logic/Character String.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Logical Expression.md"
+                "file": "Logic/Character String.md"
               }
             }
           },
@@ -239,12 +239,14 @@
   },
   "active": "e9b5b18b4e15a1c2",
   "lastOpenFiles": [
+    "Logic/Boolean Function.md",
+    "Logic/Boolean Algebra.md",
+    "Logic/Standard Boolean Algebra/Logical Expression.md",
     "Logic/Logical Operators.md",
     "Logic/Propositional Calculus/Tautology.md",
     "Logic/Propositional Calculus/Propositional Expression.md",
     "Logic/Propositional Calculus/Proposition Variable Assignment.md",
     "Logic/Propositional Calculus",
-    "Logic/Logical Expression.md",
     "Logic/Propositional Calculus/Propositional Calculus.md",
     "Logic/Equivalence.md",
     "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
@@ -262,7 +264,6 @@
     "Sets/Set Relations/Properties of a Relation.md",
     "Sets/Set Relations/Antisymmetry of a Relation.md",
     "procca.md",
-    "Logic/Boolean Function.md",
     "Logic/Standard Boolean Algebra/Conjunction (in Standard Boolean Algebra).md",
     "Sets/Subset.md"
   ]
