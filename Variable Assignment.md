@@ -3,4 +3,4 @@ aliases:
   - variable assignment
 ---
 # Definition
-In [[propositional cal]] ___variable assignment___ 
+In [[propositional calc]] ___variable assignment___ 
