@@ -87,7 +87,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Logic/Standard Boolean Algebra/Logical Expression.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,6 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Logic/Standard Boolean Algebra/Logical Expression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Logic/Standard Boolean Algebra/Logical Expression.md"
+              }
             }
           },
           {
@@ -220,8 +225,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "956df6be16d2ae6d",
+  "active": "430e396341253a51",
   "lastOpenFiles": [
+    "Logic/Propositional Calculus/Tautology.md",
     "Logic/Boolean Function.md",
     "Logic/Boolean Algebra.md",
     "Logic/Huntington's Axioms.md",
@@ -234,7 +240,6 @@
     "Logic/Untitled.md",
     "Logic/Standard Boolean Algebra/Logical Expression.md",
     "Logic/Logical Operators.md",
-    "Logic/Propositional Calculus/Tautology.md",
     "Logic/Propositional Calculus/Propositional Expression.md",
     "Logic/Propositional Calculus/Proposition Variable Assignment.md",
     "Logic/Propositional Calculus",
