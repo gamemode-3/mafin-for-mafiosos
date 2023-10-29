@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Logical Expression.md",
+                "file": "Logic/Tautology.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Logical Expression.md",
+                "file": "Logic/Tautology.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Logical Expression.md",
+                "file": "Logic/Tautology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Logical Expression.md"
+                "file": "Logic/Tautology.md"
               }
             }
           },
@@ -207,13 +207,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "cmdr:Nonexistent References": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "430e396341253a51",
   "lastOpenFiles": [
-    "Hello World.md",
+    "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
+    "Logic/Huntington's Axioms.md",
     "Logic/Logical Expression.md",
+    "Hello World.md",
     "README.md",
     "Logic/Propositional Calculus.md",
     "Sets/Set Operations.md",
@@ -222,7 +227,6 @@
     "Logic/Equivalence.md",
     "Sets/Set Relations/Transitivity of a Relation.md",
     "Logic/Standard Boolean Algebra/Negation.md",
-    "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
     "Logic/Logical Operators.md",
     "Intersection.md",
     "Identity Element.md",
@@ -236,7 +240,6 @@
     "Sets/Subset.md",
     "Sets/Set.md",
     "Sets/Superset.md",
-    "Sets/Union.md",
-    "Sets/Countability and Equipotence/Countable Infinity.md"
+    "Sets/Union.md"
   ]
 }
