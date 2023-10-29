@@ -33,18 +33,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Logical Expression.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c48b0ea5c3de261d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Hello World.md",
                 "mode": "source",
                 "source": false
@@ -88,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,7 +213,7 @@
       "cmdr:Nonexistent References": false
     }
   },
-  "active": "c48b0ea5c3de261d",
+  "active": "2f90f3199a5b4a60",
   "lastOpenFiles": [
     "Logic/Logical Expression.md",
     "Hello World.md",
