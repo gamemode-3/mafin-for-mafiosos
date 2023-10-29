@@ -40,6 +40,18 @@
             }
           },
           {
+            "id": "7fa2609eed1b1bec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "43cd258b426d04ed",
             "type": "leaf",
             "state": {
@@ -76,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Logical Expression.md",
+                "file": "Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Logical Expression.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Logical Expression.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -213,15 +225,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "430e396341253a51",
+  "active": "7fa2609eed1b1bec",
   "lastOpenFiles": [
+    "Logic/Logical Expression.md",
+    "Untitled.md",
     "Logic/Logical Operators.md",
     "Proposition Variable Assignment.md",
     "Logic/Equivalence.md",
     "Logic/Tautology.md",
     "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
     "Logic/Huntington's Axioms.md",
-    "Logic/Logical Expression.md",
     "Hello World.md",
     "README.md",
     "Logic/Propositional Calculus.md",
@@ -239,7 +252,6 @@
     "Logic/Boolean Function.md",
     "Logic/Standard Boolean Algebra/Conjunction (in Standard Boolean Algebra).md",
     "Sets/Subset.md",
-    "Sets/Set.md",
-    "Sets/Superset.md"
+    "Sets/Set.md"
   ]
 }
