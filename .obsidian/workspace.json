@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conjunction (in Standard Boolean Algebra).md",
+                "file": "Sets/Set Operations.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Propositional Calculus.md",
+                "file": "Logic/Logical Expression.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -141,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conjunction (in Standard Boolean Algebra).md",
+                "file": "Logic/Logical Expression.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conjunction (in Standard Boolean Algebra).md",
+                "file": "Logic/Logical Expression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conjunction (in Standard Boolean Algebra).md"
+                "file": "Logic/Logical Expression.md"
               }
             }
           },
@@ -212,11 +213,13 @@
       "cmdr:Nonexistent References": false
     }
   },
-  "active": "2f90f3199a5b4a60",
+  "active": "430e396341253a51",
   "lastOpenFiles": [
-    "Sets/Set Operations.md",
-    "Logic/Character String.md",
+    "README.md",
     "Logic/Propositional Calculus.md",
+    "Sets/Set Operations.md",
+    "Conjunction (in Standard Boolean Algebra).md",
+    "Logic/Character String.md",
     "Logic/Equivalence.md",
     "Sets/Set Relations/Transitivity of a Relation.md",
     "Logic/Standard Boolean Algebra/Negation.md",
@@ -230,7 +233,6 @@
     "Sets/Set Relations/Antisymmetry of a Relation.md",
     "procca.md",
     "Logic/Boolean Function.md",
-    "Conjunction (in Standard Boolean Algebra).md",
     "Logic/Standard Boolean Algebra/Conjunction (in Standard Boolean Algebra).md",
     "Logic/Tautology.md",
     "Sets/Subset.md",
@@ -238,7 +240,6 @@
     "Sets/Superset.md",
     "Sets/Union.md",
     "Sets/Countability and Equipotence/Countable Infinity.md",
-    "Sets/Countability and Equipotence/Uncountable Infinity.md",
-    "Sets/Countability and Equipotence/Infinite Cardinality.md"
+    "Sets/Countability and Equipotence/Uncountable Infinity.md"
   ]
 }
