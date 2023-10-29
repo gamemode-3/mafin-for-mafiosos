@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Propositional Expression.md",
+                "file": "Logic/Tautology.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Propositional Expression.md",
+                "file": "Logic/Tautology.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Propositional Expression.md",
+                "file": "Logic/Tautology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Propositional Expression.md"
+                "file": "Logic/Tautology.md"
               }
             }
           },
@@ -225,13 +225,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f90f3199a5b4a60",
+  "active": "7fa2609eed1b1bec",
   "lastOpenFiles": [
+    "Logic/Propositional Expression.md",
     "Logic/Propositional Calculus",
     "Logic/Logical Expression.md",
     "Logic/Propositional Calculus.md",
     "Logic/Proposition Variable Assignment.md",
-    "Logic/Propositional Expression.md",
     "Logic/Logical Operators.md",
     "Logic/Equivalence.md",
     "Logic/Tautology.md",
