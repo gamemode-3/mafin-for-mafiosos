@@ -166,6 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,6 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "README.md"
               }
             }
           },
@@ -235,10 +237,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f90f3199a5b4a60",
+  "active": "e9b5b18b4e15a1c2",
   "lastOpenFiles": [
-    "README.md",
     "Untitled.md",
+    "README.md",
     "Pasted image 20231024094345.png",
     "Logic/Equivalence.md",
     "Logic/Character String.md",
