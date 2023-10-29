@@ -52,6 +52,18 @@
             }
           },
           {
+            "id": "e9b5b18b4e15a1c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logic/Propositional Expression.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "43cd258b426d04ed",
             "type": "leaf",
             "state": {
@@ -88,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Tautology.md",
+                "file": "Logic/Propositional Expression.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Tautology.md",
+                "file": "Logic/Propositional Expression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Tautology.md"
+                "file": "Logic/Propositional Expression.md"
               }
             }
           },
@@ -225,10 +237,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7fa2609eed1b1bec",
+  "active": "e9b5b18b4e15a1c2",
   "lastOpenFiles": [
-    "Logic/Proposition Variable Assignment.md",
     "Logic/Tautology.md",
+    "Logic/Proposition Variable Assignment.md",
     "Logic/Propositional Expression.md",
     "Logic/Propositional Calculus",
     "Logic/Logical Expression.md",
