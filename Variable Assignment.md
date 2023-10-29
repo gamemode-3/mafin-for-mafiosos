@@ -3,4 +3,4 @@ aliases:
   - variable assignment
 ---
 # In [[Propositional Calculus]]
-A ___variable assignment___ is a mapping from a set of [[proposition]]
+A ___variable assignment___ is a mapping from a set of [[Proposition|proposition]]
