@@ -4,5 +4,5 @@ aliases:
   - functions
   - boolean function
 ---
- # Definition
+# Definition
 A ___boolean function___ is a [[Function|function]]
