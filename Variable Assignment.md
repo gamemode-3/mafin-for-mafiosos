@@ -3,4 +3,4 @@ aliases:
   - variable assignment
 ---
 # In [[Propositional Calculus]]
-A ___variable assignment___ 
+A ___variable assignment___ is a mappiung
