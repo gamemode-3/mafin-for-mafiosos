@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Logic/Character String.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Logic/Character String.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Logic/Character String.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Logic/Character String.md"
               }
             }
           },
@@ -239,8 +239,8 @@
   },
   "active": "e9b5b18b4e15a1c2",
   "lastOpenFiles": [
-    "Untitled.md",
     "README.md",
+    "Untitled.md",
     "Pasted image 20231024094345.png",
     "Logic/Equivalence.md",
     "Logic/Character String.md",
