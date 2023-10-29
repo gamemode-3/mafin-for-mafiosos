@@ -10,7 +10,7 @@ i'll update this at least once a week if i remember to haha
 ### automatically download (linux)
 - download [notes-updater.sh](https://github.com/gamemode-3/mafin-for-mafiosos/releases/download/v1.0.0/notes-updater.sh)
 #### graphical way
-- "allow executing file as program" from your file manager (right click -> properties -> permissions)
+- "allow executing file as program"  from your file manager (right click -> properties -> permissions)
 - double click the file, if that doesn't work right click and select "run as a program"
 #### terminal way
 in the directory you put the file in (you can probably just do `cd ~/Downloads`):

@@ -57,19 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Character String.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f619ca2d13c7b08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -178,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "README.md"
               }
             }
           },
@@ -249,10 +237,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7f619ca2d13c7b08",
+  "active": "e9b5b18b4e15a1c2",
   "lastOpenFiles": [
     "Logic/Character String.md",
-    "Untitled.md",
+    "Logic/Equivalence.md",
+    "Logic/Untitled.md",
     "Logic/Boolean Function.md",
     "Logic/Boolean Algebra.md",
     "Logic/Standard Boolean Algebra/Logical Expression.md",
@@ -262,7 +251,6 @@
     "Logic/Propositional Calculus/Proposition Variable Assignment.md",
     "Logic/Propositional Calculus",
     "Logic/Propositional Calculus/Propositional Calculus.md",
-    "Logic/Equivalence.md",
     "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
     "Logic/Huntington's Axioms.md",
     "Hello World.md",
