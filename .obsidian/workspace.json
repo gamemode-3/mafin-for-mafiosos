@@ -40,6 +40,18 @@
             }
           },
           {
+            "id": "c48b0ea5c3de261d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "43cd258b426d04ed",
             "type": "leaf",
             "state": {
@@ -76,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Logical Expression.md",
+                "file": "Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Logical Expression.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Logical Expression.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -213,8 +225,10 @@
       "cmdr:Nonexistent References": false
     }
   },
-  "active": "430e396341253a51",
+  "active": "c48b0ea5c3de261d",
   "lastOpenFiles": [
+    "Logic/Logical Expression.md",
+    "Untitled.md",
     "README.md",
     "Logic/Propositional Calculus.md",
     "Sets/Set Operations.md",
@@ -223,7 +237,6 @@
     "Logic/Equivalence.md",
     "Sets/Set Relations/Transitivity of a Relation.md",
     "Logic/Standard Boolean Algebra/Negation.md",
-    "Logic/Logical Expression.md",
     "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
     "Logic/Logical Operators.md",
     "Intersection.md",
@@ -239,7 +252,6 @@
     "Sets/Set.md",
     "Sets/Superset.md",
     "Sets/Union.md",
-    "Sets/Countability and Equipotence/Countable Infinity.md",
-    "Sets/Countability and Equipotence/Uncountable Infinity.md"
+    "Sets/Countability and Equipotence/Countable Infinity.md"
   ]
 }
