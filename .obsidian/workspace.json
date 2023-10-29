@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Propositional Expression.md",
+                "file": "Proposition Variable Assignment.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Propositional Expression.md",
+                "file": "Proposition Variable Assignment.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Propositional Expression.md",
+                "file": "Proposition Variable Assignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Propositional Expression.md"
+                "file": "Proposition Variable Assignment.md"
               }
             }
           },
@@ -227,8 +227,8 @@
   },
   "active": "7fa2609eed1b1bec",
   "lastOpenFiles": [
+    "Logic/Propositional Expression.md",
     "Logic/Logical Expression.md",
-    "Propositional Expression.md",
     "Logic/Logical Operators.md",
     "Proposition Variable Assignment.md",
     "Logic/Equivalence.md",

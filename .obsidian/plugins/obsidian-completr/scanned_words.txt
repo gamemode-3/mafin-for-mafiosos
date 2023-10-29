@@ -469,6 +469,7 @@ whether
 when
 whenever
 will
+would
 is
 if
 implies
@@ -839,6 +840,7 @@ propositions
 part
 parentheses
 pair
+possible
 Injectivity
 Implications
 In
@@ -1841,6 +1843,7 @@ files
 following
 function
 functions
+formally
 each
 element
 every
