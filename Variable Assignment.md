@@ -3,4 +3,4 @@ aliases:
   - variable assignment
 ---
 # Definition
-A ___variable assignment))
+A ___variable assignment___ 
