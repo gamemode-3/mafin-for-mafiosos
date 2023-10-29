@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Variable Assignment.md",
+                "file": "Proposition Variable Assignment.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Variable Assignment.md",
+                "file": "Proposition Variable Assignment.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Variable Assignment.md",
+                "file": "Proposition Variable Assignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Variable Assignment.md"
+                "file": "Proposition Variable Assignment.md"
               }
             }
           },
@@ -216,7 +216,7 @@
   "active": "430e396341253a51",
   "lastOpenFiles": [
     "Logic/Equivalence.md",
-    "Variable Assignment.md",
+    "Proposition Variable Assignment.md",
     "Logic/Tautology.md",
     "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
     "Logic/Huntington's Axioms.md",
