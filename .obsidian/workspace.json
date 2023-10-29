@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Propositional Expression.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Propositional Expression.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Propositional Expression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Propositional Expression.md"
               }
             }
           },
@@ -228,7 +228,7 @@
   "active": "7fa2609eed1b1bec",
   "lastOpenFiles": [
     "Logic/Logical Expression.md",
-    "Untitled.md",
+    "Propositional Expression.md",
     "Logic/Logical Operators.md",
     "Proposition Variable Assignment.md",
     "Logic/Equivalence.md",
