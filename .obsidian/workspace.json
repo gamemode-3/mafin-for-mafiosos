@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Logic/Propositional Calculus/Tautology.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Logic/Propositional Calculus/Tautology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Logic/Propositional Calculus/Tautology.md"
               }
             }
           },
@@ -225,8 +225,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "430e396341253a51",
+  "active": "7fa2609eed1b1bec",
   "lastOpenFiles": [
+    "README.md",
     "Logic/Standard Boolean Algebra/Logical Expression.md",
     "Logic/Propositional Calculus/Tautology.md",
     "Logic/Boolean Function.md",
@@ -234,7 +235,6 @@
     "Logic/Huntington's Axioms.md",
     "Logic/Equivalence.md",
     "Sets/Set Operations.md",
-    "README.md",
     "Logic/Character String.md",
     "Untitled.md",
     "Pasted image 20231024094345.png",
