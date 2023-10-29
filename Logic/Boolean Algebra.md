@@ -8,4 +8,4 @@ $$\begin{align}
 	a \otimes b \in V \\
 	a \oplus b \in V
 \end{align}$$
-Furthermore the [[Huntington's Axioms|huntington axioms]] must be fulfilled.
+Furthermore the [[Huntington's Axioms|huntington axioms]] must be fulfilled. 
