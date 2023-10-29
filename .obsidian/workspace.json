@@ -4,16 +4,72 @@
     "type": "split",
     "children": [
       {
-        "id": "127abc7bbf0b9460",
+        "id": "c62dc3ea9b60d9d8",
         "type": "tabs",
         "children": [
           {
-            "id": "ed9307986dabb6d6",
+            "id": "376a6323a10258d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Tautology.md",
+                "file": "Set Operations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "956df6be16d2ae6d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "430e396341253a51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logic/Propositional Calculus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43cd258b426d04ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logic/Equivalence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91490abfeeecbf60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logic/Standard Boolean Algebra/Negation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0c2bb6867d3c0a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sets/Set Relations/Transitivity of a Relation.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +105,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -85,8 +141,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Tautology.md",
-                "collapseAll": false,
+                "file": "Set Operations.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -102,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Tautology.md",
+                "file": "Set Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,33 +181,64 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Tautology.md"
+                "file": "Set Operations.md"
               }
+            }
+          },
+          {
+            "id": "5122ca632657c391",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "cmdr:Nonexistent References": false
     }
   },
-  "active": "ed9307986dabb6d6",
+  "active": "376a6323a10258d3",
   "lastOpenFiles": [
-    "Sets/Countability and Equipotence/Equipotence.md",
-    "Logic/Huntington's Axioms.md",
-    "Logic/Boolean Algebra.md"
+    "Logic/Character String.md",
+    "Logic/Propositional Calculus.md",
+    "Logic/Equivalence.md",
+    "Sets/Set Relations/Transitivity of a Relation.md",
+    "Logic/Standard Boolean Algebra/Negation.md",
+    "Logical Expression.md",
+    "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
+    "Logic/Logical Operators.md",
+    "Intersection.md",
+    "Identity Element.md",
+    "Proposition.md",
+    "Sets/Set Relations/Properties of a Relation.md",
+    "Sets/Set Relations/Antisymmetry of a Relation.md",
+    "procca.md",
+    "Logic/Boolean Function.md",
+    "Set Operations.md",
+    "Conjunction (in Standard Boolean Algebra).md",
+    "Logic/Standard Boolean Algebra/Conjunction (in Standard Boolean Algebra).md",
+    "Logic/Tautology.md",
+    "Sets/Subset.md",
+    "Sets/Set.md",
+    "Sets/Superset.md",
+    "Sets/Union.md",
+    "Sets/Countability and Equipotence/Countable Infinity.md",
+    "Sets/Countability and Equipotence/Uncountable Infinity.md",
+    "Sets/Countability and Equipotence/Infinite Cardinality.md"
   ]
 }

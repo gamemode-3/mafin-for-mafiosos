@@ -62,6 +62,11 @@ ay
 aj
 aaaX
 applied
+any
+arguments
+assignment
+arbitrary
+accepted
 <<<<<<< HEAD
 =======
 >>>>>>> fbb3611fb5764629182401118b55136767a439a1
@@ -133,6 +138,7 @@ mf
 ms
 mark
 menu
+multiple
 set
 subset
 subsets
@@ -207,6 +213,7 @@ surjection
 standard
 special
 seperated
+string
 Notation
 Neutral
 NJA
@@ -523,6 +530,9 @@ iXm
 iuyc
 injection
 independently
+infinitely
+infinite
+infinity
 the
 that
 to
@@ -595,6 +605,8 @@ tAb
 thought
 tags
 tautology
+them
+truth
 of
 opposite
 over
@@ -675,6 +687,11 @@ obJ
 operator
 object
 options
+operation
+operators
+only
+otherwise
+often
 Links
 Let
 Limited
@@ -807,6 +824,9 @@ propositional
 programming
 plugin
 parsed
+proofs
+propositions
+part
 Injectivity
 Implications
 In
@@ -980,6 +1000,7 @@ SP
 Ss
 SoI
 Switch
+Standard
 Bijectivity
 BA
 Ba
@@ -1056,6 +1077,7 @@ BiF
 Bzz
 Bm
 Basic
+Boolean
 Definition
 Domain
 Download
@@ -1223,6 +1245,7 @@ TWEQq
 Truth
 Table
 Text
+TODO
 denotes
 denoted
 domain
@@ -1448,6 +1471,8 @@ bJ
 bTU
 bz
 bCxd
+branch
+being
 relation
 related
 reflexive
@@ -1731,6 +1756,14 @@ commonly
 clear
 comes
 code
+cardinality
+countably
+contains
+construct
+character
+consists
+characters
+contexts
 for
 from
 fulfilled
@@ -1880,6 +1913,11 @@ exclamation
 excalidraw
 equivalences
 equivalent
+extended
+examines
+expression
+expressions
+evaluate
 Antisymmetry
 Any
 An
@@ -1963,6 +2001,7 @@ Ac
 Aoq
 Associative
 Absorption
+Algebra
 has
 haha
 how
@@ -2092,6 +2131,7 @@ CZj
 CUh
 Cht
 Ciä
+Cardinalities
 For
 Furthermore
 Fi
@@ -2303,6 +2343,9 @@ nBs
 notable
 negates
 nbsp
+number
+no
+notation
 least
 lectures
 ll
@@ -2369,6 +2412,7 @@ languages
 like
 logical
 look
+large
 value
 view
 vault
@@ -2434,6 +2478,8 @@ vi
 vL
 variable
 values
+viewed
+variables
 Prerequisites
 PNG
 Pi
@@ -2502,6 +2548,7 @@ PXT
 PR
 Programming
 Python
+Propositional
 You
 YmE
 YSrsr
@@ -2728,6 +2775,9 @@ uP
 uh
 uy
 used
+uncountably
+union
+using
 zip
 zlW
 zE
@@ -3533,6 +3583,7 @@ Gw
 GA
 Gf
 Gxn
+Generally
 qlm
 qb
 qq

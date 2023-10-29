@@ -17,6 +17,7 @@ The set of all real numbers: $\mathbb{R}$
 A set of all elements from $X$ for which the conditions $c_0, c_1, ..., c_n$ where $n \in \mathbb{N}_0$, are fulfilled: $\{x \in X: c_0, c_1, ..., c_n\}$ 
 
 # Related
+[[Set Operations]]
 [[Subset]] and [[Superset|supersets]]
 [[Relation]]
 [[Set Mapping]]

@@ -4,7 +4,15 @@
   "debug": false,
   "editorMenu": [],
   "fileMenu": [],
-  "leftRibbon": [],
+  "leftRibbon": [
+    {
+      "id": "nonexistent-references:list-nonexistent-references",
+      "icon": "at-sign",
+      "name": "Nonexistent References",
+      "mode": "any",
+      "color": "#000000"
+    }
+  ],
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
