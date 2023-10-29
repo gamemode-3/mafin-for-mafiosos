@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Equivalence.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Equivalence.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +182,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Equivalence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Equivalence.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -237,11 +235,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e9b5b18b4e15a1c2",
+  "active": "2f90f3199a5b4a60",
   "lastOpenFiles": [
     "README.md",
-    "Logic/Character String.md",
+    "Untitled.md",
+    "Pasted image 20231024094345.png",
     "Logic/Equivalence.md",
+    "Logic/Character String.md",
     "Logic/Untitled.md",
     "Logic/Boolean Function.md",
     "Logic/Boolean Algebra.md",
@@ -264,7 +264,6 @@
     "Logic/Propositional Calculus/Proposition.md",
     "Sets/Set Relations/Properties of a Relation.md",
     "Sets/Set Relations/Antisymmetry of a Relation.md",
-    "procca.md",
-    "Logic/Standard Boolean Algebra/Conjunction (in Standard Boolean Algebra).md"
+    "procca.md"
   ]
 }
