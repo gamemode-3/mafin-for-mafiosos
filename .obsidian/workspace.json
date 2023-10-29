@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proposition Variable Assignment.md",
+                "file": "Logic/Logical Expression.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proposition Variable Assignment.md",
+                "file": "Logic/Logical Expression.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proposition Variable Assignment.md",
+                "file": "Logic/Logical Expression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proposition Variable Assignment.md"
+                "file": "Logic/Logical Expression.md"
               }
             }
           },
@@ -215,8 +215,9 @@
   },
   "active": "430e396341253a51",
   "lastOpenFiles": [
-    "Logic/Equivalence.md",
+    "Logic/Logical Operators.md",
     "Proposition Variable Assignment.md",
+    "Logic/Equivalence.md",
     "Logic/Tautology.md",
     "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
     "Logic/Huntington's Axioms.md",
@@ -229,7 +230,6 @@
     "Logic/Character String.md",
     "Sets/Set Relations/Transitivity of a Relation.md",
     "Logic/Standard Boolean Algebra/Negation.md",
-    "Logic/Logical Operators.md",
     "Intersection.md",
     "Identity Element.md",
     "Logic/Proposition.md",
