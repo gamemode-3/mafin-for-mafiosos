@@ -64,6 +64,18 @@
             }
           },
           {
+            "id": "7f619ca2d13c7b08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "43cd258b426d04ed",
             "type": "leaf",
             "state": {
@@ -100,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Character String.md",
+                "file": "Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Character String.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Character String.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -237,8 +249,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e9b5b18b4e15a1c2",
+  "active": "7f619ca2d13c7b08",
   "lastOpenFiles": [
+    "Logic/Character String.md",
+    "Untitled.md",
     "Logic/Boolean Function.md",
     "Logic/Boolean Algebra.md",
     "Logic/Standard Boolean Algebra/Logical Expression.md",
@@ -255,7 +269,6 @@
     "README.md",
     "Sets/Set Operations.md",
     "Conjunction (in Standard Boolean Algebra).md",
-    "Logic/Character String.md",
     "Sets/Set Relations/Transitivity of a Relation.md",
     "Logic/Standard Boolean Algebra/Negation.md",
     "Intersection.md",
@@ -264,7 +277,6 @@
     "Sets/Set Relations/Properties of a Relation.md",
     "Sets/Set Relations/Antisymmetry of a Relation.md",
     "procca.md",
-    "Logic/Standard Boolean Algebra/Conjunction (in Standard Boolean Algebra).md",
-    "Sets/Subset.md"
+    "Logic/Standard Boolean Algebra/Conjunction (in Standard Boolean Algebra).md"
   ]
 }
