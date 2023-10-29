@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Logic/Equivalence.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Logic/Equivalence.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Logic/Equivalence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Logic/Equivalence.md"
               }
             }
           },
@@ -239,6 +239,7 @@
   },
   "active": "e9b5b18b4e15a1c2",
   "lastOpenFiles": [
+    "README.md",
     "Logic/Character String.md",
     "Logic/Equivalence.md",
     "Logic/Untitled.md",
@@ -254,7 +255,6 @@
     "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
     "Logic/Huntington's Axioms.md",
     "Hello World.md",
-    "README.md",
     "Sets/Set Operations.md",
     "Conjunction (in Standard Boolean Algebra).md",
     "Sets/Set Relations/Transitivity of a Relation.md",
