@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hello World.md",
+                "file": "Logic/Logical Expression.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hello World.md",
+                "file": "Logic/Logical Expression.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hello World.md",
+                "file": "Logic/Logical Expression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hello World.md"
+                "file": "Logic/Logical Expression.md"
               }
             }
           },
@@ -213,10 +213,10 @@
       "cmdr:Nonexistent References": false
     }
   },
-  "active": "2f90f3199a5b4a60",
+  "active": "430e396341253a51",
   "lastOpenFiles": [
-    "Logic/Logical Expression.md",
     "Hello World.md",
+    "Logic/Logical Expression.md",
     "README.md",
     "Logic/Propositional Calculus.md",
     "Sets/Set Operations.md",
