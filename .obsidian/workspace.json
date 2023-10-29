@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Propositional Calculus/Tautology.md",
+                "file": "Logic/Boolean Algebra.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Propositional Calculus/Tautology.md",
+                "file": "Logic/Boolean Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Propositional Calculus/Tautology.md"
+                "file": "Logic/Boolean Algebra.md"
               }
             }
           },
@@ -225,11 +225,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7fa2609eed1b1bec",
+  "active": "e9b5b18b4e15a1c2",
   "lastOpenFiles": [
+    "Logic/Propositional Calculus/Tautology.md",
     "README.md",
     "Logic/Standard Boolean Algebra/Logical Expression.md",
-    "Logic/Propositional Calculus/Tautology.md",
     "Logic/Boolean Function.md",
     "Logic/Boolean Algebra.md",
     "Logic/Huntington's Axioms.md",
