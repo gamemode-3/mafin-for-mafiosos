@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Tautology.md",
+                "file": "Variable Assignment.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,14 +142,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Tautology.md",
+                "file": "Variable Assignment.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Tautology.md",
+                "file": "Variable Assignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Tautology.md"
+                "file": "Variable Assignment.md"
               }
             }
           },
@@ -215,6 +215,9 @@
   },
   "active": "430e396341253a51",
   "lastOpenFiles": [
+    "Logic/Equivalence.md",
+    "Variable Assignment.md",
+    "Logic/Tautology.md",
     "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
     "Logic/Huntington's Axioms.md",
     "Logic/Logical Expression.md",
@@ -224,7 +227,6 @@
     "Sets/Set Operations.md",
     "Conjunction (in Standard Boolean Algebra).md",
     "Logic/Character String.md",
-    "Logic/Equivalence.md",
     "Sets/Set Relations/Transitivity of a Relation.md",
     "Logic/Standard Boolean Algebra/Negation.md",
     "Logic/Logical Operators.md",
@@ -236,10 +238,8 @@
     "procca.md",
     "Logic/Boolean Function.md",
     "Logic/Standard Boolean Algebra/Conjunction (in Standard Boolean Algebra).md",
-    "Logic/Tautology.md",
     "Sets/Subset.md",
     "Sets/Set.md",
-    "Sets/Superset.md",
-    "Sets/Union.md"
+    "Sets/Superset.md"
   ]
 }
