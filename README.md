@@ -5,7 +5,7 @@ i'll update this at least once a week if i remember to haha
 
 ## how to view
 ### manually download
-- click "Code" then "Download zip" and the zip file to a folder
+- click "Code" then "Download zip" and extract the zip file to a folder
 - open [obsidian](https://obsidian.md/) and open the folder as a vault.
 ### automatically download (linux)
 - download [notes-updater.sh](https://github.com/gamemode-3/mafin-for-mafiosos/releases/download/v1.0.0/notes-updater.sh)
