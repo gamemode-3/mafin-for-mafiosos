@@ -62,15 +62,14 @@ ay
 aj
 aaaX
 applied
-<<<<<<< HEAD
 any
 arguments
 assignment
 arbitrary
 accepted
 absolute
-=======
->>>>>>> e77ff38db9f15b844896387ab8447e8a5b677ecb
+applies
+apply
 <<<<<<< HEAD
 =======
 >>>>>>> fbb3611fb5764629182401118b55136767a439a1
@@ -142,6 +141,9 @@ mf
 ms
 mark
 menu
+multiple
+missing
+matter
 set
 subset
 subsets
@@ -216,6 +218,9 @@ surjection
 standard
 special
 seperated
+string
+smallest
+strings
 Notation
 Neutral
 NJA
@@ -316,6 +321,7 @@ Nde
 No
 Name
 Numbers
+Note
 Mapping
 ML
 Ma
@@ -394,6 +400,7 @@ MORE
 Morgan
 Meaning
 Maths
+MafIn
 where
 with
 ways
@@ -466,6 +473,9 @@ wi
 while
 whether
 when
+whenever
+will
+would
 is
 if
 implies
@@ -532,6 +542,11 @@ iwi
 iXm
 iuyc
 injection
+independently
+infinitely
+infinite
+infinity
+induces
 the
 that
 to
@@ -603,6 +618,12 @@ tL
 tAb
 thought
 tags
+tautology
+them
+truth
+they
+these
+therefore
 of
 opposite
 over
@@ -683,6 +704,14 @@ obJ
 operator
 object
 options
+operation
+operators
+only
+otherwise
+often
+our
+omitting
+outermost
 Links
 Let
 Limited
@@ -815,6 +844,12 @@ propositional
 programming
 plugin
 parsed
+proofs
+propositions
+part
+parentheses
+pair
+possible
 Injectivity
 Implications
 In
@@ -926,6 +961,7 @@ IYi
 IH
 Inverse
 Idempotent
+Important
 Surjectivity
 Symmetry
 Strictness
@@ -987,6 +1023,7 @@ SP
 Ss
 SoI
 Switch
+Standard
 Bijectivity
 BA
 Ba
@@ -1063,6 +1100,7 @@ BiF
 Bzz
 Bm
 Basic
+Boolean
 Definition
 Domain
 Download
@@ -1230,6 +1268,8 @@ TWEQq
 Truth
 Table
 Text
+TODO
+Therefore
 denotes
 denoted
 domain
@@ -1317,6 +1357,9 @@ denial
 different
 document
 derived
+denote
+definition
+discuss
 Relations
 Reflexivity
 Related
@@ -1455,6 +1498,8 @@ bJ
 bTU
 bz
 bCxd
+branch
+being
 relation
 related
 reflexive
@@ -1738,6 +1783,15 @@ commonly
 clear
 comes
 code
+cardinality
+countably
+contains
+construct
+character
+consists
+characters
+contexts
+course
 for
 from
 fulfilled
@@ -1797,6 +1851,9 @@ fggk
 fN
 files
 following
+function
+functions
+formally
 each
 element
 every
@@ -1884,6 +1941,13 @@ exception
 exclamation
 excalidraw
 equivalences
+equivalent
+extended
+examines
+expression
+expressions
+evaluate
+everywhere
 Antisymmetry
 Any
 An
@@ -1967,6 +2031,7 @@ Ac
 Aoq
 Associative
 Absorption
+Algebra
 has
 haha
 how
@@ -2020,6 +2085,7 @@ hsaZZ
 hgtH
 hMy
 hS
+however
 Codomain
 Collection
 Cases
@@ -2096,6 +2162,9 @@ CZj
 CUh
 Cht
 Ciä
+Cardinalities
+Contains
+Calculus
 For
 Furthermore
 Fi
@@ -2242,6 +2311,8 @@ Ozz
 Oh
 OPTIONS
 Ohno
+Oddities
+Okay
 never
 non
 not
@@ -2306,6 +2377,9 @@ nBs
 notable
 negates
 nbsp
+number
+no
+notation
 least
 lectures
 ll
@@ -2372,6 +2446,7 @@ languages
 like
 logical
 look
+large
 value
 view
 vault
@@ -2436,6 +2511,10 @@ vk
 vi
 vL
 variable
+values
+viewed
+variables
+variation
 Prerequisites
 PNG
 Pi
@@ -2504,6 +2583,7 @@ PXT
 PR
 Programming
 Python
+Propositional
 You
 YmE
 YSrsr
@@ -2730,6 +2810,10 @@ uP
 uh
 uy
 used
+uncountably
+union
+using
+unique
 zip
 zlW
 zE
@@ -3535,6 +3619,7 @@ Gw
 GA
 Gf
 Gxn
+Generally
 qlm
 qb
 qq

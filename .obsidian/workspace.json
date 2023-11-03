@@ -1,148 +1,39 @@
 {
   "main": {
-    "id": "62b26b2c2075aecc",
+    "id": "ce98b3c6ee876825",
     "type": "split",
     "children": [
       {
-        "id": "f73a7f596bcb4182",
+        "id": "c62dc3ea9b60d9d8",
         "type": "tabs",
         "children": [
-          {
-            "id": "52edc7f9a41a4748",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96c577fff4fab86e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-<<<<<<< HEAD
-            "id": "430e396341253a51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7fa2609eed1b1bec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logic/Propositional Calculus/Tautology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9b5b18b4e15a1c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logic/Boolean Algebra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef124ed6827f2280",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Body Axioms of the Real Numbers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "2a9ec1c72c8e61c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Absolute Value.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43cd258b426d04ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logic/Equivalence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91490abfeeecbf60",
-=======
-            "id": "c6210e8fbf524f70",
->>>>>>> e77ff38db9f15b844896387ab8447e8a5b677ecb
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logic/Standard Boolean Algebra/Negation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b10897a5b7a361e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b2035cbbf2c9a5da",
+    "id": "583b588957313f3a",
     "type": "split",
     "children": [
       {
-        "id": "76af0ab54138831a",
+        "id": "c5e204328dd737de",
         "type": "tabs",
         "children": [
           {
-            "id": "f4844e2f2ea3dc4a",
+            "id": "2f90f3199a5b4a60",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -152,13 +43,13 @@
             }
           },
           {
-            "id": "fb5ec2c84b6d405f",
+            "id": "f7a8ff4ac73a2b19",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -167,7 +58,7 @@
             }
           },
           {
-            "id": "27e1c9e9288e247f",
+            "id": "0e7e2c6bc186209a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -181,53 +72,44 @@
     "width": 300
   },
   "right": {
-    "id": "ca97c74bbc64936e",
+    "id": "251bc0a934284806",
     "type": "split",
     "children": [
       {
-        "id": "66d7eeea51d8c742",
+        "id": "e3eea0c7f4dba5fc",
         "type": "tabs",
         "children": [
           {
-            "id": "739ef4536aba0a81",
+            "id": "2b96f9d2bfd5f2d3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Absolute Value.md",
+                "file": "Untitled.md",
                 "collapseAll": true,
-=======
-                "file": "README.md",
-                "collapseAll": false,
->>>>>>> e77ff38db9f15b844896387ab8447e8a5b677ecb
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "97d2069ca6518d29",
+            "id": "c787a9cf1378ed9a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Absolute Value.md",
-=======
-                "file": "README.md",
->>>>>>> e77ff38db9f15b844896387ab8447e8a5b677ecb
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c0b18456194c0466",
+            "id": "f255d377ef8a1fc1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -238,105 +120,70 @@
             }
           },
           {
-            "id": "37508e393f4ac447",
+            "id": "278897839134d2d2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Absolute Value.md"
-=======
-                "file": "README.md"
->>>>>>> e77ff38db9f15b844896387ab8447e8a5b677ecb
+                "file": "Untitled.md"
               }
             }
           },
           {
-            "id": "1a103db079f91384",
+            "id": "5122ca632657c391",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "cmdr:Nonexistent References": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "cmdr:Nonexistent References": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-<<<<<<< HEAD
   "active": "2a9ec1c72c8e61c0",
   "lastOpenFiles": [
-    "Untitled.md",
     "Absolute Value.md",
     "Body Axioms of the Real Numbers.md",
+    "README.md",
+    "Pasted image 20231024094345.png",
+    "Untitled.md",
     "Logic/Boolean Algebra.md",
     "Logic/Propositional Calculus/Tautology.md",
-    "README.md",
     "Logic/Standard Boolean Algebra/Logical Expression.md",
     "Logic/Boolean Function.md",
     "Logic/Huntington's Axioms.md",
     "Logic/Equivalence.md",
     "Sets/Set Operations.md",
     "Logic/Character String.md",
-    "Pasted image 20231024094345.png",
     "Logic/Untitled.md",
     "Logic/Logical Operators.md",
-=======
-  "active": "b10897a5b7a361e0",
-  "lastOpenFiles": [
-    "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
-    "README.md",
-    "Sets/Union.md",
-    "Sets/Set Operations.md",
-    "Sets/Countability and Equipotence/Uncountable Infinity.md",
-    "Sets/Countability and Equipotence/Infinite Cardinality.md",
-    "Sets/Countability and Equipotence/Finite Cardinality.md",
-    "Sets/Countability and Equipotence/Countable Infinity.md",
-    "Sets/Countability and Equipotence/Cardinality.md",
-    "Logic/Standard Boolean Algebra/Logical Expression.md",
-    "Logic/Propositional Calculus/Tautology.md",
->>>>>>> e77ff38db9f15b844896387ab8447e8a5b677ecb
     "Logic/Propositional Calculus/Propositional Expression.md",
-    "Logic/Propositional Calculus/Propositional Calculus.md",
-    "Logic/Propositional Calculus/Proposition.md",
     "Logic/Propositional Calculus/Proposition Variable Assignment.md",
     "Logic/Propositional Calculus",
-    "Logic/Logical Operators.md",
-    "Logic/Equivalence.md",
-    "Logic/Character String.md",
-    "Untitled.md",
+    "Logic/Propositional Calculus/Propositional Calculus.md",
+    "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
+    "Hello World.md",
+    "Conjunction (in Standard Boolean Algebra).md",
+    "Sets/Set Relations/Transitivity of a Relation.md",
     "Logic/Standard Boolean Algebra/Negation.md",
-<<<<<<< HEAD
     "Intersection.md",
     "Identity Element.md",
-    "Logic/Propositional Calculus/Proposition.md",
-    "Sets/Set Relations/Properties of a Relation.md"
-=======
-    "Sets/Superset.md",
-    "Pasted image 20231024094345.png",
-    "Sets/Set Relations/Reflexivity of a Relation.md",
-    "Sets/Set Relations/Equivalence Relation.md",
-    "Sets/Set Relations/Antisymmetry of a Relation.md",
-    "Sets/Cartesian Product.md",
-    "Sets/Subset.md",
-    "Logic/Standard Boolean Algebra",
-    "Excalidraw"
->>>>>>> e77ff38db9f15b844896387ab8447e8a5b677ecb
+    "Logic/Propositional Calculus/Proposition.md"
   ]
 }
