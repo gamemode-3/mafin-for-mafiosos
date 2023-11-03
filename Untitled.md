@@ -8,4 +8,4 @@ now it must be proven that $(g(n) \to g(n + 1))$
 
 $$(x + y)^{n + 1} = \sum^{n + 1}_{k = 0} \binom{n + 1}{k} x^{n+1-k} y^{k}$$ 
 
-$$(x + y)^{n} \cdot (x + y) = \sum^{n}_{k = 0} \binom{n + 1}{k} x^{n-k} \cdot x y^{k} + \binom{n + 1}{n + 1}$$ 
+$$(x + y)^{n} \cdot (x + y) = \sum^{n}_{k = 0} \binom{n + 1}{k} x^{n-k} \cdot x \cdot y^{k} + \binom{n + 1}{n + 1}$$ 
