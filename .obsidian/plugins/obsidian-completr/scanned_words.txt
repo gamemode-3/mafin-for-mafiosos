@@ -70,6 +70,7 @@ accepted
 absolute
 applies
 apply
+accept
 <<<<<<< HEAD
 =======
 >>>>>>> fbb3611fb5764629182401118b55136767a439a1
@@ -221,6 +222,7 @@ seperated
 string
 smallest
 strings
+something
 Notation
 Neutral
 NJA
@@ -624,6 +626,7 @@ truth
 they
 these
 therefore
+transform
 of
 opposite
 over
@@ -850,6 +853,7 @@ part
 parentheses
 pair
 possible
+proven
 Injectivity
 Implications
 In
@@ -1854,6 +1858,7 @@ following
 function
 functions
 formally
+first
 each
 element
 every
@@ -1948,6 +1953,7 @@ expression
 expressions
 evaluate
 everywhere
+examine
 Antisymmetry
 Any
 An
@@ -2447,6 +2453,7 @@ like
 logical
 look
 large
+long
 value
 view
 vault
