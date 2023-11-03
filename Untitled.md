@@ -1,1 +1,2 @@
-$(x + y)^{n} = \sum^{n}_{k = 0} \binom{n}{k} x^{n-k} y^{k}$   
+$(x + y)^{n} = \sum^{n}_{k = 0} \binom{n}{k} x^{n-k} y^{k}$ 
+
