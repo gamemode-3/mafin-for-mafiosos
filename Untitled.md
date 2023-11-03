@@ -1,1 +1,1 @@
-$(x + y)^{n} = \sum^{n}_{k = 0} n over k$  
+$(x + y)^{n} = \sum^{n}_{k = 0} n \over k$  
