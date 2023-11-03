@@ -10,4 +10,4 @@ $$(x + y)^{n + 1} = \sum^{n + 1}_{k = 0} \binom{n + 1}{k} x^{n+1-k} y^{k}$$
 Let us first examine how to transform $\binom{n + 1}{k}$ to something containing $\binom{n}{k}$
 $$\binom{n+1}{k} = \frac{(n + 1)!}{k!(n - k + 1)!} = \frac{n! \cdot (n + 1)}{k!(n - k)! \cdot (n - k + 1)} = \frac{n!}{k!(n-k)!}\frac{n+1}{n-k+1}$$
 
-$$(x + y)^{n} \cdot (x + y) = \sum^{n}_{k = 0} \frac{(n + 1)!}{k!(n - 1 + k)!} x \cdot x^{n-k} y^{k}$$ 
+$$(x + y)^{n} \cdot (x + y) = \binom{n + 1}{n + 1} \cdot x^{0} \cdot y^{n + 1} +\sum^{n}_{k = 0} \frac{(n + 1)!}{k!(n - 1 + k)!} x \cdot x^{n-k} y^{k}$$ 
