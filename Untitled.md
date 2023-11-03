@@ -5,3 +5,4 @@ $(x+y)^{0} = 1$
 $\sum^{0}_{k = 0} \binom{0}{k} x^{0-k} y^{k} = \binom{0}{0} x^{0-0} y^{0} = 1$ 
 
 now it must be proven that $(g(n) \to g(n + 1))$ 
+
