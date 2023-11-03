@@ -1,1 +1,1 @@
-$(x + y)^{n} = \sum\limits$ 
+$(x + y)^{n} = \sum\limits{a}{}$ 
