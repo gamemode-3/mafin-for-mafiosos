@@ -1,1 +1,1 @@
-$(x + y)^{n} = \sum^{n}_{k = 0} \binom{#}{#}$  
+$(x + y)^{n} = \sum^{n}_{k = 0} \binom{n}{k}$  
