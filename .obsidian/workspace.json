@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
+                "file": "Sets/Set Mappings/Set Mapping.md",
                 "mode": "preview",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
+                "file": "Sets/Set Mappings/Set Mapping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
+                "file": "Sets/Set Mappings/Set Mapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md"
+                "file": "Sets/Set Mappings/Set Mapping.md"
               }
             }
           },
@@ -193,11 +193,13 @@
   },
   "active": "b10897a5b7a361e0",
   "lastOpenFiles": [
+    "Sets/Set.md",
+    "Logic/Huntington's Axioms.md",
+    "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
     "Untitled.md",
     "Body Axioms of the Real Numbers.md",
     "Absolute Value.md",
     "README.md",
-    "Logic/Standard Boolean Algebra/Standard Boolean Algebra.md",
     "Sets/Union.md",
     "Sets/Set Operations.md",
     "Sets/Countability and Equipotence/Uncountable Infinity.md",
@@ -219,8 +221,6 @@
     "Sets/Superset.md",
     "Pasted image 20231024094345.png",
     "Sets/Set Relations/Reflexivity of a Relation.md",
-    "Sets/Set Relations/Equivalence Relation.md",
-    "Sets/Set Relations/Antisymmetry of a Relation.md",
     "Logic/Standard Boolean Algebra",
     "Excalidraw"
   ]
